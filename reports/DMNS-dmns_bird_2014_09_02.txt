@@ -1,0 +1,219 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 1766
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 144
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 4
+	Date: 2014-08-02 ; Times: 1
+	Date: 2014-08-03 ; Times: 4
+	Date: 2014-08-04 ; Times: 1
+	Date: 2014-08-05 ; Times: 28
+	Date: 2014-08-08 ; Times: 12
+	Date: 2014-08-10 ; Times: 6
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-12 ; Times: 9
+	Date: 2014-08-13 ; Times: 6
+	Date: 2014-08-14 ; Times: 4
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 1
+	Date: 2014-08-18 ; Times: 3
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-20 ; Times: 12
+	Date: 2014-08-21 ; Times: 3
+	Date: 2014-08-22 ; Times: 11
+	Date: 2014-08-23 ; Times: 2
+	Date: 2014-08-24 ; Times: 3
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 9
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 9
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virescens genus:butorides AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "flicker" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "spiders" ; Times: 1
+	Query: "country:"costa rica" class:Aves year >= 1928 year <= 1928" ; Times: 2
+	Query: "Egretta thula" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "eider" ; Times: 2
+	Query: "buteo" ; Times: 1
+	Query: "Aegotheles" ; Times: 1
+	Query: ""butorides virescens"" ; Times: 1
+	Query: "University of Michigan" ; Times: 1
+	Query: "Catharus guttatus" ; Times: 1
+	Query: "Buteo jamaicensis" ; Times: 2
+	Query: "anas laysanensis" ; Times: 1
+	Query: "Tyrannus eggs type:specimen" ; Times: 1
+	Query: "type:specimen (oreocichla OR geocichla OR geokicla)" ; Times: 1
+	Query: "ectopistes migratorius egg" ; Times: 1
+	Query: "Galbula" ; Times: 1
+	Query: "Ardea alba" ; Times: 2
+	Query: "genus:Diomedea mappable:1" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: ""butorides virescens" AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "icterus spurius" ; Times: 1
+	Query: "year >= 1860 year <= 1890" ; Times: 2
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Cepphus columba columba" ; Times: 3
+	Query: "aegolius acadicus type:specimen tissue:1" ; Times: 2
+	Query: "Murina" ; Times: 1
+	Query: "Falco mexicanus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus AND (NOT sound NOT churchill)" ; Times: 1
+	Query: "Alpine" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: ""butorides virescens" AND (NOT california) year >= 1888 year <= 1922" ; Times: 1
+	Query: "dryocopus lineatus" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "Passerina versicolor" ; Times: 1
+	Query: "specificepithet:longirostris genus:rallus" ; Times: 1
+	Query: "specificepithet:virescens genus:butorides (skin OR skeleton) AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "(butorides)" ; Times: 1
+	Query: "Falco columbarius" ; Times: 2
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "leucosticte tephrocotis" ; Times: 1
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus institutioncode:dmns" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "type:specimen (Ectopistes migratorius)" ; Times: 1
+	Query: "buteo regalis" ; Times: 1
+	Query: "stateprovince:"Michigan"" ; Times: 1
+	Query: ""leg band" class:aves" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:nebulosa genus:strix" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius)" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 2
+	Query: "Royal ontario Museum" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "Baja California" ; Times: 1
+	Query: "aum" ; Times: 1
+	Query: "Colluricincla harmonica" ; Times: 1
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 3
+	Query: "necropsy" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "specificepithet:virescens genus:butorides (skin) AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys year >= 1990 year <= 2010" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: ""butorides virescens" (egg) AND (NOT california) year >= 1888 year <= 1922" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "Pyrocephalus" ; Times: 1
+	Query: "Nycticorax nycticorax" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "(vireo)" ; Times: 1
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 3
+	Query: "specificepithet:corax genus:corvus institutioncode:dmns (corrine)" ; Times: 1
+	Query: "banding class:aves" ; Times: 10
+	Query: "mvz birds 1" ; Times: 1
+	Query: ""butorides virescens" AND (NOT california)" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "Procellariiformes" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "mouse" ; Times: 2
+	Query: "passer domesticus" ; Times: 1
+	Query: "type:specimen genus:Ectopistes mappable:1" ; Times: 1
+	Query: "specificepithet:corax genus:corvus institutioncode:dmns (corinne)" ; Times: 2
+	Query: "pica pica" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves" ; Times: 1
+	Query: "type:specimen (turdus) AND (not migratorius)" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 2
+	Query: "Zealand" ; Times: 1
+	Query: "Asio otus" ; Times: 2
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "genus:Diomedea" ; Times: 2
+	Query: "Records of egg sets from the University of Kansas" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "fruit" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus institutioncode:dmns year >= 1920 year <= 2014" ; Times: 1
+	Query: "egeria" ; Times: 1
+	Query: "dove" ; Times: 1
+	Query: "butorides" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "gallus gallus" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 2
+	Query: "Coahuila" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 273 download events in this period)
+Total number of records downloaded: 1815 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1002
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 2
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-12 ; Times: 1
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 1
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 1
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 735
+Total number of records retrieved from searches: 9892
+Number of download events that retrieved data from the resource: 113
+Total number of records downloaded: 54165
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 735
+Total number of records retrieved from searches: 9892
+Number of download events that retrieved data from the resource: 165
+Total number of records downloaded: 227897
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
