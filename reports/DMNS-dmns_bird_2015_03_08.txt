@@ -1,0 +1,334 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 400
+Number of records retrieved in searches: 2856
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 12
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 18
+	Country: Mexico ; Times: 55
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Russia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 269
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 18
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-03 ; Times: 13
+	Date: 2015-02-04 ; Times: 8
+	Date: 2015-02-05 ; Times: 8
+	Date: 2015-02-06 ; Times: 16
+	Date: 2015-02-08 ; Times: 33
+	Date: 2015-02-09 ; Times: 98
+	Date: 2015-02-10 ; Times: 6
+	Date: 2015-02-11 ; Times: 12
+	Date: 2015-02-12 ; Times: 32
+	Date: 2015-02-13 ; Times: 10
+	Date: 2015-02-14 ; Times: 15
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-16 ; Times: 9
+	Date: 2015-02-17 ; Times: 10
+	Date: 2015-02-18 ; Times: 12
+	Date: 2015-02-19 ; Times: 12
+	Date: 2015-02-20 ; Times: 3
+	Date: 2015-02-21 ; Times: 8
+	Date: 2015-02-22 ; Times: 9
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 10
+	Date: 2015-02-25 ; Times: 15
+	Date: 2015-02-26 ; Times: 21
+	Date: 2015-02-27 ; Times: 11
+	Date: 2015-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "university of michigan" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts"" ; Times: 1
+	Query: "dmns cyanocitta stelleri" ; Times: 1
+	Query: "dendroica petechia (utah) mappable:1" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "Geospiza scandens type:specimen" ; Times: 1
+	Query: "leptoptilos" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 3
+	Query: "Columba livia tissue:1" ; Times: 1
+	Query: "Chaetura pelagica mappable:1" ; Times: 3
+	Query: "cathartes aura" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hersey year >= 1915 year <= 1915" ; Times: 1
+	Query: "CM Leucosticte" ; Times: 1
+	Query: "Camarhynchus pallidus type:specimen" ; Times: 1
+	Query: "aum" ; Times: 1
+	Query: "fregata magnificens mexico type:specimen" ; Times: 1
+	Query: "enicurus maculatus type:specimen country:"India"" ; Times: 1
+	Query: "frank chapman" ; Times: 1
+	Query: "Chen canagica tissue" ; Times: 1
+	Query: "yellow warblers" ; Times: 2
+	Query: "Leucosticte atrata stateprovince:"Colorado"" ; Times: 1
+	Query: "University of Michigan museum of zoology" ; Times: 1
+	Query: "colaptes auratus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus class:aves year >= 1921 year <= 1921" ; Times: 1
+	Query: "branta canadensis distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 1
+	Query: "Jalisco" ; Times: 1
+	Query: "cook type:specimen (egg) year >= 1920 year <= 1950" ; Times: 2
+	Query: "Megascops tissue:1" ; Times: 1
+	Query: "pelecanus occidentalis" ; Times: 1
+	Query: "DMNS Leucosticte atrata" ; Times: 1
+	Query: "Anser caerulescens distance(location,geopoint(70.67088107015755,-149.58984375))<328765" ; Times: 1
+	Query: "vieillot" ; Times: 1
+	Query: "columbina minuta] tissue" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 3
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 2
+	Query: "Heteralocha" ; Times: 1
+	Query: "basileuterus melanogenys" ; Times: 1
+	Query: "type:specimen (MVZ)" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "Falco peregrinus egg" ; Times: 1
+	Query: "stateprovince:"Tennessee"" ; Times: 1
+	Query: "university of michigan museum of zoology" ; Times: 2
+	Query: "phaeomyias murina" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (colorado) mappable:1" ; Times: 1
+	Query: "tarsiger rufilatus type:specimen country:"India"" ; Times: 1
+	Query: "deer mouse" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 4
+	Query: "Fregata Magnificens mappable:1" ; Times: 2
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "empidonax traillii" ; Times: 1
+	Query: "callipepla californica" ; Times: 2
+	Query: "cranioleuca" ; Times: 1
+	Query: "catharus mexicanus" ; Times: 3
+	Query: "Cardinalis cardinalis mexico type:specimen year >= 1950 year <= 2014" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "specificepithet:grayi genus:turdus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Bubo virginianus saturatus" ; Times: 2
+	Query: "LSU" ; Times: 2
+	Query: "Slater Museum" ; Times: 1
+	Query: "brain type:specimen (tissue OR preserved) tissue:1" ; Times: 4
+	Query: "ardea alba tissue:1" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "stateprovince:"utah" (egg island) mappable:1" ; Times: 1
+	Query: "Theristicus caudatus" ; Times: 1
+	Query: "chapman" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen (Mexico) year >= 1980 year <= 2014" ; Times: 2
+	Query: "owl minnesota" ; Times: 2
+	Query: "bubalornis" ; Times: 1
+	Query: "fregata magnificens mappable:1" ; Times: 2
+	Query: "dmns certhia americana" ; Times: 1
+	Query: "ortalis leucogastra" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hersey institutioncode:dmns AND (NOT wfvz NOT lacm)" ; Times: 1
+	Query: "leucosticte" ; Times: 1
+	Query: "Alcedo atthis country:"India"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "callipepla californica mappable:1" ; Times: 3
+	Query: "Chen canagica" ; Times: 4
+	Query: "type:specimen genus:pseudoscops" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "Furcifer" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "Anser anser" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Beetle" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "bubo scandiacus tissue:1" ; Times: 1
+	Query: "Oenanthe oenanthe" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax" ; Times: 2
+	Query: "formicivora rufa brazil" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT usa) year >= 2000 year <= 2015" ; Times: 1
+	Query: "phapitreron leucotis" ; Times: 1
+	Query: "fregata magnificens" ; Times: 8
+	Query: "Wilsonia citrina stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "(lagonosticta)" ; Times: 1
+	Query: ""empidonax traillii"" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 3
+	Query: "Megalaima haemacephala" ; Times: 2
+	Query: "anser caerulescens distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 1
+	Query: "melospiza melodia county:"jackson" stateprovince:"ORegon"" ; Times: 1
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "distance(location,geopoint(44.797428998555645,-106.94572448730469))<100000" ; Times: 2
+	Query: "picidae tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hersey AND (NOT wfvz NOT lacm)" ; Times: 1
+	Query: ""empidonax traillii" type:specimen mappable:1" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "AUM" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "(crete)" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 2
+	Query: "Callipepla Californica mappable:1" ; Times: 3
+	Query: "dendroica petechia year >= 2000 year <= 2013 mappable:1" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 5
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Geospiza fortis type:specimen" ; Times: 1
+	Query: "megapodius" ; Times: 7
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "cypseloides (tissue)" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 5
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "Callipepla" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 15
+	Query: "geococcyx californianus mappable:1" ; Times: 4
+	Query: "galbula" ; Times: 1
+	Query: "Dendrocolaptidae" ; Times: 1
+	Query: "alticola" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "Thamnophilidae" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "Pipilo ocai" ; Times: 1
+	Query: "Aegolius tissue:1" ; Times: 1
+	Query: "Geococcyx californianus mappable:1" ; Times: 5
+	Query: "Heterophasia capistrata type:specimen country:"India"" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"India"" ; Times: 1
+	Query: "monticola rufiventris type:specimen country:"India"" ; Times: 1
+	Query: "Athene" ; Times: 2
+	Query: ""Dendroica petechia" type:specimen (California) mappable:1" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: ""dendroica petechia" (idaho) mappable:1" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "starnoenas cyanocephala" ; Times: 110
+	Query: "OTUS tissue:1" ; Times: 1
+	Query: "Tangara cyanicollis" ; Times: 1
+	Query: ""national park" country:"united states" class:aves" ; Times: 1
+	Query: "Leucosticte" ; Times: 1
+	Query: "Geococcyx Californianus mappable:1" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "dendroica petechia year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hersey AND (NOT wfvz)" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 7
+	Query: "bird calls" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Gorilla" ; Times: 1
+	Query: "Eupetomena macroura brazil" ; Times: 1
+	Query: "type:specimen genus:Monasa" ; Times: 2
+	Query: "chaetura pelagica mappable:1" ; Times: 5
+	Query: "catharus" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Aratinga acuticaudata" ; Times: 1
+	Query: "Geospiza fuliginosa type:specimen" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 2000 year <= 2015 tissue:1" ; Times: 1
+	Query: "chaetura vauxi (tissue)" ; Times: 1
+	Query: "branta bernicla distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 2
+	Query: "DMNS Leucosticte" ; Times: 4
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Alticola" ; Times: 1
+	Query: "dmns" ; Times: 1
+	Query: "megapodius reinwardt" ; Times: 1
+	Query: "parakeet" ; Times: 1
+	Query: "Callipepla californica mappable:1" ; Times: 7
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 326 download events in this period)
+Total number of records downloaded: 1879 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1829
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 6
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Camarhynchus parvulus type:specimen" ; Times: 1
+	Query: "Certhidea olivacea type:specimen" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Geospiza scandens type:specimen" ; Times: 1
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "catharus mexicanus" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "Camarhynchus pallidus type:specimen" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "dmns sitta carolinensis" ; Times: 1
+	Query: "brain type:specimen (tissue OR preserved) tissue:1" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "coracias benghalensis type:specimen country:"India"" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "dmns certhia americana" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Geospiza fortis type:specimen" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "dendroica petechia (Colorado) mappable:1" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1614
+Total number of records retrieved from searches: 17467
+Number of download events that retrieved data from the resource: 73
+Total number of records downloaded: 8822
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1865
+Total number of records retrieved from searches: 20403
+Number of download events that retrieved data from the resource: 315
+Total number of records downloaded: 287108
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
