@@ -1,0 +1,243 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 980
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 68
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 8
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 6
+	Date: 2015-03-05 ; Times: 14
+	Date: 2015-03-06 ; Times: 6
+	Date: 2015-03-07 ; Times: 5
+	Date: 2015-03-08 ; Times: 6
+	Date: 2015-03-09 ; Times: 5
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 3
+	Date: 2015-03-12 ; Times: 11
+	Date: 2015-03-13 ; Times: 3
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 3
+	Date: 2015-03-16 ; Times: 6
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 8
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-24 ; Times: 8
+	Date: 2015-03-25 ; Times: 5
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-28 ; Times: 4
+	Date: 2015-03-30 ; Times: 6
+	Date: 2015-03-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "grayi" ; Times: 1
+	Query: "aves africa" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "lsu" ; Times: 1
+	Query: "picoides villosus" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 2
+	Query: "melanerpes formicivorus (endoparasite OR ectoparasite OR endoparasites OR ectoparasites OR parasite OR parasites)" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "thryomanes bewickii" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Jalisco" ; Times: 2
+	Query: "plectrophenax nivalis" ; Times: 2
+	Query: "clangula" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "socorro new mexico" ; Times: 1
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "Leptocoma sperata" ; Times: 1
+	Query: "trogon tenellus" ; Times: 1
+	Query: "peralta distance(location,geopoint(9.95814270290626,-83.60647201538086))<2393.3929120087314" ; Times: 2
+	Query: "Rhipidura cyaniceps" ; Times: 2
+	Query: "Scaphidura" ; Times: 2
+	Query: "passerina amoena" ; Times: 1
+	Query: "florence arizona" ; Times: 2
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "gyps" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Hidalgo County mappable:1" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Falco mexicanus" ; Times: 1
+	Query: "mynah" ; Times: 1
+	Query: "mosquito" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1996 year <= 2015" ; Times: 1
+	Query: "Rynchops niger" ; Times: 2
+	Query: "Butorides sundevalli" ; Times: 2
+	Query: "campephilus principalis" ; Times: 1
+	Query: "royal ontario museum" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "passerina ciris" ; Times: 1
+	Query: "distance(location,geopoint(9.95814270290626,-83.60647201538086))<2393.3929120087314" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:corapipo" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax" ; Times: 1
+	Query: "athene cunicularia tissue:1" ; Times: 1
+	Query: "melanerpes formicivorus type:specimen (endoparasite OR ectoparasite OR endoparasites OR ectoparasites OR parasite OR parasites)" ; Times: 1
+	Query: "Ortalis brazil" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1889 year <= 1910" ; Times: 1
+	Query: "heliodoxa imperatrix" ; Times: 1
+	Query: "tropical" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "macgregoria" ; Times: 1
+	Query: "bats mappable:1" ; Times: 2
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "dendrortyx leucophrys guatemala" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "Leucosticte institutioncode:DMNS" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:magnirostris genus:Myiarchus" ; Times: 1
+	Query: "amazona amazonica mato grosso" ; Times: 1
+	Query: "collin county" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.91119007003743,-72.2900390625))<17706.79171425276" ; Times: 1
+	Query: "calidris mauri" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "momotidae" ; Times: 1
+	Query: "sarcoramphus papa (Brazil)" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "cypseloides niger" ; Times: 2
+	Query: "cyanocitta cristata tissue:1" ; Times: 1
+	Query: "rallus longirostris" ; Times: 2
+	Query: "Synthliboramphus" ; Times: 3
+	Query: "Leucosticte ATRATA institutioncode:DMNS" ; Times: 1
+	Query: "Ciccaba" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"India"" ; Times: 2
+	Query: "veniliornis" ; Times: 1
+	Query: "anthus spinoletta" ; Times: 1
+	Query: "GUATEMALA" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "cyanocorax yncas" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "cyrtonyx montezumae" ; Times: 1
+	Query: "Trogon rufus" ; Times: 2
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "oxyura jamaicensis" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Cyrtonyx montezumae stateprovince:"Chihuahua" country:"Mexico" year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "dark-eyed junco" ; Times: 1
+	Query: "Black swift mappable:1" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 3
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 298 download events in this period)
+Total number of records downloaded: 1609 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1460
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 11
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "passerina cyanea" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1742
+Total number of records retrieved from searches: 18447
+Number of download events that retrieved data from the resource: 105
+Total number of records downloaded: 10431
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1993
+Total number of records retrieved from searches: 21383
+Number of download events that retrieved data from the resource: 347
+Total number of records downloaded: 288717
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
