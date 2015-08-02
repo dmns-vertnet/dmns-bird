@@ -1,0 +1,345 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 282
+Number of records retrieved in searches: 1259
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 26
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 23
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 3
+	Country: United Kingdom ; Times: 33
+	Country: United States ; Times: 180
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 5
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 9
+	Date: 2015-07-04 ; Times: 3
+	Date: 2015-07-05 ; Times: 4
+	Date: 2015-07-06 ; Times: 11
+	Date: 2015-07-07 ; Times: 7
+	Date: 2015-07-08 ; Times: 9
+	Date: 2015-07-09 ; Times: 7
+	Date: 2015-07-10 ; Times: 5
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-12 ; Times: 8
+	Date: 2015-07-13 ; Times: 11
+	Date: 2015-07-14 ; Times: 8
+	Date: 2015-07-15 ; Times: 11
+	Date: 2015-07-16 ; Times: 12
+	Date: 2015-07-17 ; Times: 6
+	Date: 2015-07-18 ; Times: 8
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 8
+	Date: 2015-07-21 ; Times: 11
+	Date: 2015-07-22 ; Times: 8
+	Date: 2015-07-23 ; Times: 9
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-25 ; Times: 3
+	Date: 2015-07-26 ; Times: 10
+	Date: 2015-07-27 ; Times: 11
+	Date: 2015-07-28 ; Times: 17
+	Date: 2015-07-29 ; Times: 49
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<167518" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "rom" ; Times: 2
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<70400" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Costa Rica"" ; Times: 2
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 3
+	Query: "aves Georgia United States Coccyzus erythropthalmus" ; Times: 2
+	Query: "country:"Canada" class:aves year >= 1895 year <= 1905" ; Times: 1
+	Query: "distance(location,geopoint(40.31446719283562,-113.411865234375))<30246.971978908655" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "MOnasa institutioncode:DMNS" ; Times: 1
+	Query: "Cucullatus" ; Times: 1
+	Query: "calidris canutus" ; Times: 4
+	Query: "mimus" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "Mniotilta varia type:specimen" ; Times: 1
+	Query: "campylorhynchus" ; Times: 1
+	Query: "zosterops everetti type:specimen" ; Times: 2
+	Query: "Amazilia viridifrons type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Poecilotriccus" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "Gavia immer" ; Times: 1
+	Query: "callipepla californica mexico" ; Times: 1
+	Query: "sterna dougallii" ; Times: 3
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "stateprovince:"South Carolina" year >= 1980 year <= 2015" ; Times: 1
+	Query: "distance(location,geopoint(45.3572946012738,-97.646484375))<100000" ; Times: 1
+	Query: "aves Georgia United States Field" ; Times: 1
+	Query: "specificepithet:corax genus:corvus tissue:1" ; Times: 1
+	Query: "genus:phalacrocorax year >= 1948" ; Times: 1
+	Query: "distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "gavia immer" ; Times: 2
+	Query: "specificepithet:conirostris genus:Geospiza" ; Times: 1
+	Query: "auricollis year >= 1886" ; Times: 2
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "spizella pusilla" ; Times: 1
+	Query: "oreophasis" ; Times: 1
+	Query: "Tinamotis ingoufi type:specimen" ; Times: 1
+	Query: "aves distance(location,geopoint(53.42262754609993,-165.38818359375))<100000" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 1
+	Query: "stateprovince:"Tennessee"" ; Times: 1
+	Query: "Brachyramphus" ; Times: 1
+	Query: "Mountain earth snake" ; Times: 1
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "stateprovince:"Vermont"" ; Times: 1
+	Query: "Picoides tissue:1" ; Times: 3
+	Query: "33125" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "harris county" ; Times: 1
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 2
+	Query: "rattlesnake" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "Sarcoramphus papa country:"Brazil"" ; Times: 2
+	Query: "colaptes auratus tissue:1" ; Times: 4
+	Query: "14299" ; Times: 4
+	Query: "jalisco" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 2
+	Query: "columba livia" ; Times: 1
+	Query: "skeleton Branta Sandvicensis" ; Times: 1
+	Query: ""aethia"" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "specificepithet:pallidus genus:Camarhynchus" ; Times: 1
+	Query: "Kieneri" ; Times: 1
+	Query: "Sphyrapicus nuchalis tissue:1" ; Times: 1
+	Query: "specificepithet:pygmaea" ; Times: 1
+	Query: "Encantada country:"Mexico"" ; Times: 1
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "33940" ; Times: 1
+	Query: "paradisaea" ; Times: 1
+	Query: "skeleton asio flammeus" ; Times: 1
+	Query: "Micrastur institutioncode:DMNS" ; Times: 1
+	Query: "1436" ; Times: 1
+	Query: "mountain earth snake" ; Times: 1
+	Query: "Empidonax virescens" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "aves Georgia United States DMNS 15177" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 4
+	Query: "isu" ; Times: 1
+	Query: "Pipilo maculatus" ; Times: 1
+	Query: "megalurus palustris" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 4
+	Query: "Afropavo congensis type:specimen" ; Times: 1
+	Query: ""crypturellus cinnamomeus"" ; Times: 1
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta" ; Times: 1
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 2
+	Query: "aythya nyroca" ; Times: 2
+	Query: "Hinsdale Colorado" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa" ; Times: 1
+	Query: "specificepithet:nigrorufa genus:sporophila" ; Times: 2
+	Query: "Leptodon" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "Amazona aestiva" ; Times: 1
+	Query: "Branta Sandvicensis (skeleton)" ; Times: 1
+	Query: "Sphyrapicus tissue:1" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 9
+	Query: "16002" ; Times: 1
+	Query: "pseudoseisura" ; Times: 1
+	Query: "scopus umbretta" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 2
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "36223 Aves" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "Ward Coccothraustes coccothraustes" ; Times: 2
+	Query: "san luis potosi" ; Times: 1
+	Query: "Pilherodius pileatus type:specimen" ; Times: 1
+	Query: "AUM" ; Times: 1
+	Query: "Routt Colorado" ; Times: 1
+	Query: "seiurus motacilla" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdii" ; Times: 1
+	Query: "Pipile pipile type:specimen" ; Times: 3
+	Query: "Momotus momota" ; Times: 1
+	Query: "distance(location,geopoint(33.74870592463674,-80.33203125))<100000" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 5
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "fort bend county texas" ; Times: 1
+	Query: "Brachyramphus marmoratus stateprovince:"California"" ; Times: 9
+	Query: "Centrocercus minimus type:specimen" ; Times: 1
+	Query: "Todirostrum" ; Times: 1
+	Query: "skeleton type:specimen specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "dendrocopos tissue:1" ; Times: 1
+	Query: "aves Georgia United States Picoides borealis" ; Times: 4
+	Query: "callipepla californica" ; Times: 2
+	Query: "cypseloides niger" ; Times: 5
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 4
+	Query: "specificepithet:motacilla genus:seiurus" ; Times: 2
+	Query: "Campylorhynchus rufinucha" ; Times: 2
+	Query: "russia" ; Times: 1
+	Query: "Carduelis psaltria" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Streptoprocne" ; Times: 2
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 4
+	Query: "Branta hutchinsii type:specimen" ; Times: 5
+	Query: "mountain earth" ; Times: 1
+	Query: "Laterallus galapagos" ; Times: 3
+	Query: "36084" ; Times: 1
+	Query: "genus:Phalacrocorax year >= 1978" ; Times: 1
+	Query: "zosterops everetti" ; Times: 1
+	Query: "stateprovince:"colima"" ; Times: 2
+	Query: "Otus scops" ; Times: 1
+	Query: "county:"Gila" stateprovince:"Arizona" specificepithet:stelleri genus:Cyanocitta" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "san juan county utah" ; Times: 1
+	Query: "Cyrtonyx montezumae sallei" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<30247" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<41669" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete)" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 2
+	Query: "buteo lagopus" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 2
+	Query: "Mniotilta varia" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 4
+	Query: "gorilla" ; Times: 4
+	Query: "MUSEUM OF UTAH" ; Times: 1
+	Query: "acanthis flammea" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "Tinamotis ingoufi" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 1
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1084 download events in this period)
+Total number of records downloaded: 1975 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1593
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 4
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 10
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 4
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Geospiza fortis" ; Times: 1
+	Query: "Laterallus galapagos" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Costa Rica"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "specificepithet:olivacea genus:Certhidea" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "specificepithet:pallidus genus:Camarhynchus" ; Times: 1
+	Query: "Encantada country:"Mexico"" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete)" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:conirostris genus:Geospiza" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "specificepithet:parvulus genus:Camarhynchus" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2845
+Total number of records retrieved from searches: 24362
+Number of download events that retrieved data from the resource: 282
+Total number of records downloaded: 20208
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3096
+Total number of records retrieved from searches: 27298
+Number of download events that retrieved data from the resource: 524
+Total number of records downloaded: 298494
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
