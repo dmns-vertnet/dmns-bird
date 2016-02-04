@@ -1,0 +1,275 @@
+Report for Institution Code DMNS, Resource Bird specimens
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 1485
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 6
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 19
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Russia ; Times: 7
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 125
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 8
+	Date: 2016-01-06 ; Times: 6
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-08 ; Times: 8
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 10
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-18 ; Times: 16
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-20 ; Times: 12
+	Date: 2016-01-21 ; Times: 8
+	Date: 2016-01-22 ; Times: 25
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-25 ; Times: 8
+	Date: 2016-01-26 ; Times: 10
+	Date: 2016-01-27 ; Times: 6
+	Date: 2016-01-28 ; Times: 11
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal sounds" ; Times: 1
+	Query: "distance(location,geopoint(29.162555018601683,-100.31890869140625))<100000" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 2
+	Query: "42565" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1916 year <= 1916" ; Times: 1
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS diazi" ; Times: 2
+	Query: "aix sponsa" ; Times: 1
+	Query: "home page" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "cathartes aura" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920" ; Times: 3
+	Query: "class:aves country:"venezuela"" ; Times: 1
+	Query: ""Campylorhynchus fasciatus" OR "Heleodytes fasciatus" OR "Furnarius fasciatus" OR "Thryothorus superciliaris" OR "Cantorchilus superciliaris" OR "Cyanocorax mystacalis" OR "Euscarthmus meloryphus" OR "Hapalocercus meloryphus" OR "Forpus coelestis" OR "Psittacula coelestis" OR "Icterus graceannae" OR "Leucippus baeri" OR "Mimus longicaudatus" OR "Myiarchus semirufus" OR "Myiodynastes bairdi" OR "Myiodynastes bairdii" OR "Myrmia micrura" OR "Calothorax micrurus" OR "Phaeomyias murina" OR "Phytotoma raimondii" OR "Piezorhina cinerea" OR "Guiraca cinerea" OR "Piezorina cinerea" OR "Myiopagis leucospodia" OR "Pseudelaenia leucospodia" OR "Elaenia leucospodia" OR "Aimophila stolzmanni" OR "Peucaea stolzmanni" OR "Rhynchospiza stolzmanni" OR "Gnathospiza taczanowskii" OR "Sicalis taczanowskii" OR "Gnathospiza raimondi" OR "Synallaxis stictothorax" OR "Thamnophilus bernardi" OR "Sakesphorus bernardi" OR "Ochthoeca salvini" OR "Tumbezia salvini"" ; Times: 1
+	Query: "actenoides" ; Times: 1
+	Query: ""Forpus coelestis" OR "Psittacula coelestis" OR "Leucippus baeri" OR "Myrmia micrura" OR "Phytotoma raimondii" OR "Myiopagis leucospodia" OR "Pseudelaenia leucospodia" OR "Elaenia leucospodia" OR "Ochthoeca salvini" OR "Tumbezia salvini" OR "Myiodynastes bairdi" OR "Myiodynastes bairdii" OR "Thamnophilus bernardi" OR "Sakesphorus bernardi" OR "Synallaxis stictothorax" OR "Cyanocorax mystacalis" OR "Thryothorus superciliaris" OR "Cantorchilus superciliaris" OR "Icterus graceannae" OR "Aimophila stolzmanni" OR "Peucaea stolzmanni" OR "Rhynchospiza stolzmanni" OR "Piezorhina cinerea" OR "Piezorina cinerea" OR "Gnathospiza taczanowskii" OR "Sicalis taczanowskii" OR "Gnathospiza raimondi" OR "Phaeomyias murina" OR "Euscarthmus meloryphus" OR "Hapalocercus meloryphus" OR "Myiarchus semirufus" OR "Campylorhynchus fasciatus" OR "Heleodytes fasciatus" OR "Mimus longicaudatus" OR "Calothorax micrurus" OR "Guiraca cinerea" OR "Furnarius fasciatus" class:Aves" ; Times: 1
+	Query: "Sayornis saya quiescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "leucistic" ; Times: 1
+	Query: "halcyon chelicuti" ; Times: 2
+	Query: "ANAS PLATYRHYNCHOS" ; Times: 1
+	Query: "doane" ; Times: 1
+	Query: "Carolina parakeet specimens" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "class:aves stateprovince:california year>1976" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:hurley" ; Times: 2
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: "distance(location,geopoint(69.9001176266854,-156.4013671875))<100000" ; Times: 1
+	Query: ""Buteo lineatus" and "Mexico"" ; Times: 1
+	Query: "blue wing" ; Times: 1
+	Query: "Gymnorhinus cyanocephalus" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "snakes" ; Times: 3
+	Query: "himatione" ; Times: 1
+	Query: "wilsonia pusilla month >= 6 month <= 7" ; Times: 1
+	Query: "Rattlesnake" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: ""aves" and "Michoacan"" ; Times: 2
+	Query: "class:aves locality:forrester stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "Anthus spragueii minnesota" ; Times: 2
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "DMNS" ; Times: 2
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1915 year <= 1915" ; Times: 1
+	Query: "aegialitis nivosa" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1922 year <= 1922" ; Times: 1
+	Query: "Setophaga type:specimen" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "type:specimen specificepithet:fuscus genus:pipilo sex:Male preparations:Skin" ; Times: 1
+	Query: "icterus pectoralis" ; Times: 1
+	Query: ""stomach contents preserved" class:Aves" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "blue penguin" ; Times: 3
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "pyrocephalus" ; Times: 2
+	Query: ""Mionectes olivaceus"" ; Times: 1
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "house finch" ; Times: 4
+	Query: "genus:Rhea class:Aves stateprovince:"Mato Grosso" country:"Brazil"" ; Times: 1
+	Query: "dmns bird 25546" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 8
+	Query: "croconotus brazil" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett institutioncode:DMNS" ; Times: 3
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" year >= 1940 year <= 1940 month >= 6 month <= 6" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:willett year >= 1922 year <= 1922" ; Times: 2
+	Query: "specificepithet:auritus genus:Podiceps" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1914 year <= 1914" ; Times: 1
+	Query: "genus:haliaeetus" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Columbiformes "costa rica" mappable:1" ; Times: 1
+	Query: "selasphorus AND (NOT rufus OR platycercus) mappable:1" ; Times: 1
+	Query: ""Forpus coelestis" OR "Psittacula coelestis" OR "Leucippus baeri" OR "Myrmia micrura" OR "Phytotoma raimondii" OR "Myiopagis leucospodia" OR "Pseudelaenia leucospodia" OR "Elaenia leucospodia" OR "Ochthoeca salvini" OR "Tumbezia salvini" OR "Myiodynastes bairdi" OR "Myiodynastes bairdii" OR "Thamnophilus bernardi" OR "Sakesphorus bernardi" OR "Synallaxis stictothorax" OR "Cyanocorax mystacalis" OR "Thryothorus superciliaris" OR "Cantorchilus superciliaris" OR "Icterus graceannae" OR "Aimophila stolzmanni" OR "Peucaea stolzmanni" OR "Rhynchospiza stolzmanni" OR "Piezorhina cinerea" OR "Piezorina cinerea" OR "Gnathospiza taczanowskii" OR "Sicalis taczanowskii" OR "Gnathospiza raimondi" OR "Phaeomyias murina" OR "Euscarthmus meloryphus" OR "Hapalocercus meloryphus" OR "Myiarchus semirufus" OR "Campylorhynchus fasciatus" OR "Heleodytes fasciatus" OR "Mimus longicaudatus" OR "Calothorax micrurus" OR "Guiraca cinerea" OR "Furnarius fasciatus"" ; Times: 2
+	Query: "21381" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: ""Xenops rutilans"" ; Times: 1
+	Query: "minnesota bird albino" ; Times: 1
+	Query: "squirrels" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "genus:piculus" ; Times: 1
+	Query: "asio otus" ; Times: 5
+	Query: "otus asio" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:willett institutioncode:DMNS" ; Times: 2
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "zonotrichia atricapilla" ; Times: 1
+	Query: "Quiscalus quiscula quiscula (skin)" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Melanerpes uropygialis cardonensis" ; Times: 1
+	Query: "class:aves locality:chipp stateprovince:"alaska" year >= 1940 year <= 1940" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "terpsiphone paradisi india" ; Times: 1
+	Query: "class:aves locality:chipp stateprovince:"alaska" year >= 1940 year <= 1940 month >= 6 month <= 6" ; Times: 1
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "class:Aves locality:"Santa Cruz Island" stateprovince:"California"" ; Times: 1
+	Query: "polioptila plumbea" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-106.047516))<15000" ; Times: 1
+	Query: "Islas San Benitos" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "nuts" ; Times: 1
+	Query: "furnarius" ; Times: 1
+	Query: "Psaltriparus minimus" ; Times: 1
+	Query: "type:specimen county:"Yuba" stateprovince:"California"" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "hazel" ; Times: 1
+	Query: "selasphorus" ; Times: 1
+	Query: "class:aves ("Catharus fuscescens")" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "type:specimen genus:bubo tissue:1" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "dmns 25546" ; Times: 1
+	Query: "selasphorus AND (NOT rufus) mappable:1" ; Times: 1
+	Query: "piranga ludoviciana" ; Times: 1
+	Query: "Aimophila ruficauda" ; Times: 1
+	Query: "Alberta bird" ; Times: 2
+	Query: "pagophila" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 507 download events in this period)
+Total number of records downloaded: 292 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 275
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 6
+	Date: 2016-01-02 ; Times: 7
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 5
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos toco" ; Times: 2
+	Query: "himatione" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: ""Santa Cruz Island" class:Aves stateprovince:"California"" ; Times: 1
+	Query: "country:"mexico" recordedby:brown year >= 1890 year <= 1955 hastypestatus:1" ; Times: 1
+	Query: ""aves" and "Michoacan"" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: ""Euphonia xanthogaster"" ; Times: 1
+	Query: ""Lafresnaya lafresnayi"" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: ""Thraupis cyanocephala"" ; Times: 1
+	Query: ""Doryfera ludovicae"" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: ""Xenops rutilans"" ; Times: 1
+	Query: "wilsonia pusilla month >= 6 month <= 7" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "genus:haliaeetus year >= 1996 year <= 2015" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: ""Coeligena coeligena"" ; Times: 1
+	Query: "type:specimen locality:Buttes county:"Sutter"" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: ""Myrmotherula schisticolor"" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))<19662" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 40
+Total number of records downloaded: 292
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 190
+Total number of records retrieved from searches: 1485
+Number of download events that retrieved data from the resource: 40
+Total number of records downloaded: 292
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
