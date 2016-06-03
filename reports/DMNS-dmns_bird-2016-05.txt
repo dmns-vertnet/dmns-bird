@@ -1,0 +1,188 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1069
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 30
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 73
+	Country: Norway ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 7
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 9
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-31 ; Times: 16
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 4
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 3
+	Date: 2016-05-04 ; Times: 8
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 25
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 9
+	Date: 2016-05-21 ; Times: 4
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "aramus guarauna" ; Times: 1
+	Query: "Vireo huttoni" ; Times: 2
+	Query: "conuropsis carolinensis" ; Times: 5
+	Query: "snakes" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 6
+	Query: "polysticta" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "ivory" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "grus" ; Times: 1
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "salpinctes" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "Deer Mice" ; Times: 1
+	Query: "John Dixon" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "specificepithet:caerulea stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Chamaea" ; Times: 2
+	Query: "louisiana state university" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "Anas AND Santa Cruz Island" ; Times: 1
+	Query: "locality:Twin Oaks" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 3
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "rattlesnake mappable:1" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "tissues" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "Echo Lake" ; Times: 1
+	Query: "sturnella magna magna" ; Times: 1
+	Query: "Melidectes" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "family:hydrobatidae sex:female" ; Times: 1
+	Query: "Aythya AND americana AND collaris" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "galbula tombacea" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Ardea herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "Anas discors AND hybrid" ; Times: 1
+	Query: "deer mice" ; Times: 10
+	Query: "larus canus" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "DMNS 6648" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "genus:sialia class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "anser" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Melanerpes aurifrons" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "lsu" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "dendroica nigrescens" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "Passer domesticus" ; Times: 4
+	Query: "hawk" ; Times: 2
+	Query: "coeligena coeligena" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 327 download events in this period)
+Total number of records downloaded: 7064
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 2
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
