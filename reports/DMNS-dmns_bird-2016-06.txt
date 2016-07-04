@@ -1,0 +1,355 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 389
+Number of records retrieved in searches: 2543
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 23
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Portugal ; Times: 36
+	Country: Mexico ; Times: 118
+	Country: Unknown ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 171
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 4
+	Date: 2016-06-24 ; Times: 6
+	Date: 2016-06-09 ; Times: 5
+	Date: 2016-06-22 ; Times: 20
+	Date: 2016-06-21 ; Times: 18
+	Date: 2016-06-20 ; Times: 31
+	Date: 2016-06-05 ; Times: 13
+	Date: 2016-06-04 ; Times: 16
+	Date: 2016-06-07 ; Times: 11
+	Date: 2016-06-06 ; Times: 7
+	Date: 2016-06-01 ; Times: 6
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 33
+	Date: 2016-06-23 ; Times: 23
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-16 ; Times: 39
+	Date: 2016-06-17 ; Times: 12
+	Date: 2016-06-14 ; Times: 47
+	Date: 2016-06-15 ; Times: 24
+	Date: 2016-06-13 ; Times: 18
+	Date: 2016-06-10 ; Times: 10
+	Date: 2016-06-11 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavia pacifica" ; Times: 4
+	Query: "J. W. Miller institutioncode:DMNS" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Walter S. Miller" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34; AND (NOT SUI)" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "Foudia AND skeleton" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Mailliard AND Santa Cruz Island" ; Times: 1
+	Query: "1831" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "type:specimen specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "aum" ; Times: 1
+	Query: "country:&#34;China&#34;" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1940" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Arundo donax" ; Times: 1
+	Query: "Meleagris" ; Times: 2
+	Query: "73821" ; Times: 1
+	Query: "type:specimen genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "CMNH" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Parish AND Island" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 2
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "Walter Miller" ; Times: 3
+	Query: "asio otus" ; Times: 2
+	Query: "Oriolus chinensis" ; Times: 2
+	Query: "38682" ; Times: 1
+	Query: "Thryothorus rufalbus" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Thryomanes bewickii" ; Times: 4
+	Query: "Dendroica dominica" ; Times: 1
+	Query: "Icterus icterus AND (galbula) tissue:1" ; Times: 2
+	Query: "Gymnorhinus cyanocephalus" ; Times: 1
+	Query: "Auriparus flaviceps stateprovince:&#34;Baja California&#34; mappable:1" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "Edmonton" ; Times: 1
+	Query: "Diomedea" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "Breninger AND 1903" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1978" ; Times: 1
+	Query: "feathers" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "8442" ; Times: 2
+	Query: "specificepithet:penelope" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 2
+	Query: "Natividad AND Mexico" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 5
+	Query: "11139" ; Times: 4
+	Query: "gavia pacifica" ; Times: 14
+	Query: "type:specimen class:aves recordedby:grant" ; Times: 2
+	Query: "murio" ; Times: 1
+	Query: "Terpsiphone" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "panama" ; Times: 1
+	Query: "stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "rattlesnake" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "Garza 1" ; Times: 2
+	Query: "DMNS" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "8516" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "oreophasis derbianus" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "Dendroica magnolia" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ramphastidae" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Stevens AND 1939" ; Times: 1
+	Query: "anhinga" ; Times: 1
+	Query: "ortalis vetula type:specimen" ; Times: 1
+	Query: "Asio otus institutioncode:DMNS tissue:1" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "Aphelocoma" ; Times: 1
+	Query: "Pitangus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 6
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "Wright AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "platyspiza type:specimen" ; Times: 2
+	Query: "Sitta canadensis" ; Times: 3
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "haemorhous mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "eremophila alpestris baja california" ; Times: 1
+	Query: "Thamnophilus" ; Times: 2
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "bats" ; Times: 2
+	Query: "laterallus jamaicensis United States" ; Times: 1
+	Query: "slater" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "thraupis palmarum" ; Times: 1
+	Query: "ramphastos" ; Times: 3
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "&#34;Walter Miller&#34;" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 1
+	Query: "M-1831" ; Times: 1
+	Query: "cypseloides class:aves" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "Picoides scalaris" ; Times: 3
+	Query: "specificepithet:corax genus:corvus year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "oceanites oceanicus" ; Times: 3
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "numenius" ; Times: 1
+	Query: "trogon" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Oceanodroma" ; Times: 2
+	Query: "trogon elegans" ; Times: 1
+	Query: "Amazona aestiva 1" ; Times: 3
+	Query: "rabbit" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Wright AND &#34;Santa Barbara Island&#34; NOT 1962" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 1982" ; Times: 1
+	Query: "type:specimen genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Egretta AND Island" ; Times: 1
+	Query: "neomorphus" ; Times: 1
+	Query: "haliaeetus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Isla Coronados Mexico AND 1924" ; Times: 1
+	Query: "34876" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "Bubo virginianus tissue:1" ; Times: 2
+	Query: "empidonax traillii" ; Times: 1
+	Query: "Otus kennicotti" ; Times: 3
+	Query: "13164" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb NOT Fish" ; Times: 1
+	Query: "Bergen" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "ortalis ruficauda ruficauda" ; Times: 2
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "dendroica dominica" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Breninger" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "Aratinga acuticaudata 1" ; Times: 4
+	Query: "Vireo griseus" ; Times: 1
+	Query: "stuttgart" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "7777" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 6
+	Query: "basileuterus culicivorus" ; Times: 5
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 1
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "aegolius funereus" ; Times: 3
+	Query: "Thraupis palmarum" ; Times: 4
+	Query: "41594" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "bird wings" ; Times: 2
+	Query: "14557" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "34959" ; Times: 2
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "basileuterus" ; Times: 2
+	Query: "a.w. anthony" ; Times: 1
+	Query: "ara macao" ; Times: 5
+	Query: "45816" ; Times: 1
+	Query: "Tetraoninae AND Island" ; Times: 1
+	Query: "r. a. erickson" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 3
+	Query: "crax rubra" ; Times: 2
+	Query: "25087" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 2
+	Query: "amphispiza bilineata" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "anas cyanoptera" ; Times: 3
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "dendroica magnolia" ; Times: 5
+	Query: "Wilsonia citrina" ; Times: 4
+	Query: "11714" ; Times: 2
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "genus: aegolius" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "39534" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1052 download events in this period)
+Total number of records downloaded: 1796
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 29
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "birds" ; Times: 1
+	Query: "Asio otus institutioncode:DMNS tissue:1" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "laterallus" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
