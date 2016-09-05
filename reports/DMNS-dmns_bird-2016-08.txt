@@ -1,0 +1,302 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 273
+Number of records retrieved in searches: 1864
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 52
+	Country: Canada ; Times: 2
+	Country: Romania ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 43
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 153
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 5
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 8
+	Date: 2016-08-11 ; Times: 15
+	Date: 2016-08-12 ; Times: 14
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 7
+	Date: 2016-08-15 ; Times: 10
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-17 ; Times: 9
+	Date: 2016-08-18 ; Times: 10
+	Date: 2016-08-19 ; Times: 9
+	Date: 2016-08-30 ; Times: 23
+	Date: 2016-08-31 ; Times: 20
+	Date: 2016-08-29 ; Times: 17
+	Date: 2016-08-28 ; Times: 10
+	Date: 2016-08-25 ; Times: 16
+	Date: 2016-08-24 ; Times: 9
+	Date: 2016-08-27 ; Times: 6
+	Date: 2016-08-26 ; Times: 44
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 7
+	Date: 2016-08-23 ; Times: 13
+	Date: 2016-08-22 ; Times: 13
+	Date: 2016-08-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 2
+	Query: "34126" ; Times: 1
+	Query: "1146" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "type:specimen genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "amazilia chionopectus" ; Times: 1
+	Query: "type:specimen (pipridae)" ; Times: 2
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "San Benito Island" ; Times: 1
+	Query: "90-171" ; Times: 2
+	Query: "schiffornis turdinus" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 3
+	Query: "type:specimen country:&#34;China&#34;" ; Times: 1
+	Query: "platyspiza" ; Times: 1
+	Query: "DMNS 18564" ; Times: 1
+	Query: "common teal wing" ; Times: 1
+	Query: "PIcoides villosus year &gt;= 1980" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 2
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "T R johnson" ; Times: 1
+	Query: "Samar Island Philippines" ; Times: 1
+	Query: "Ptilonorhynchus DMNS" ; Times: 1
+	Query: "type:specimen genus:Coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Black bear" ; Times: 13
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "type:specimen genus:Polytmus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:melacoryphus genus:coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chrysoparia" ; Times: 10
+	Query: "type:specimen specificepithet:ruficauda genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Chloroceryle americana cHIHUAHUA" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 hastypestatus:1 hasmedia:1 hastissue:1" ; Times: 1
+	Query: "Dendroica Magnolia" ; Times: 1
+	Query: "genus:struthio" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Catharus ustulatus year &gt;= 1980" ; Times: 1
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "feathers" ; Times: 1
+	Query: "phylloscopus borealis north america" ; Times: 1
+	Query: "family:Tyrannidae class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "skulls" ; Times: 1
+	Query: "type:specimen genus:podager class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "geospiza" ; Times: 2
+	Query: "panama" ; Times: 1
+	Query: "Xiphocolaptes" ; Times: 1
+	Query: "Dendroica petechia" ; Times: 1
+	Query: "type:specimen specificepithet:chrysura genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:talpacoti class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "CD-05" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 4
+	Query: "aURIPARUS FLAVICEPS" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "type:specimen genus:Podager class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 6
+	Query: "ASIO OTUS cHIHUAHUA" ; Times: 1
+	Query: "Icterus tissue:1" ; Times: 4
+	Query: "type:specimen specificepithet:MAJOR genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "Callipepla californica" ; Times: 2
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus" ; Times: 1
+	Query: "type:specimen genus:Nyctidromus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "&#34;stomach contents&#34; class:Aves (ethanol)" ; Times: 1
+	Query: "type:specimen specificepithet:chacuru genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cottontail" ; Times: 1
+	Query: "W. S. Wood" ; Times: 1
+	Query: "ecological" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "type:specimen specificepithet:macroura genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 3
+	Query: "CA 5051" ; Times: 1
+	Query: "Beetle" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "type:specimen specificepithet:pelagicus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Clarke Aves year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "type:specimen specificepithet:tombacea genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caspia" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "SAn Benito AND Carpodacus" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "type:specimen genus:megaceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 2
+	Query: "sialis sialis" ; Times: 2
+	Query: "psittacus erithacus" ; Times: 1
+	Query: "fasciata" ; Times: 1
+	Query: "type:specimen genus:nyctidromus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "type:specimen specificepithet:minuta genus:Columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dendroica aestiva" ; Times: 1
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 4
+	Query: "wax" ; Times: 1
+	Query: "Corvus corax utah" ; Times: 2
+	Query: "5918" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "type:specimen specificepithet:brasilianum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; recordedby:smith year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "lucida" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "megascops asio tissue:1" ; Times: 2
+	Query: "DMNS 18975" ; Times: 2
+	Query: "class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "catalognumber:1" ; Times: 1
+	Query: "type:specimen specificepithet:furcifer genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "DMNS 19000" ; Times: 2
+	Query: "DMNS 19001" ; Times: 2
+	Query: "eudyptes" ; Times: 1
+	Query: "type:specimen specificepithet:theresiae genus:Polytmus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:furcata genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "10929" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 1
+	Query: "penguin study skin" ; Times: 1
+	Query: "DMNS 18974" ; Times: 4
+	Query: "iliaca" ; Times: 1
+	Query: "type:specimen specificepithet:leucopyga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "type:specimen specificepithet:picui genus:columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Grizzly bear" ; Times: 2
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "falco peregrinus" ; Times: 2
+	Query: "Falco sparverius" ; Times: 17
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "type:specimen specificepithet:nigricollis genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Amaurolimnas concolor country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "type:specimen genus:Chrysolampis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "otus asio tissue:1" ; Times: 2
+	Query: "BUTEO JAMAICENSIS" ; Times: 1
+	Query: "Catalina AND Carpodacus" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "pipridae" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; AND (not smith) year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "type:specimen specificepithet:nacunda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "bird shape" ; Times: 1
+	Query: "type:specimen genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "AnaCAPA AND Endomychura hypoleuca scrippsi" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "insect" ; Times: 2
+	Query: "type:specimen genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "locality:Arkansas" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "type:specimen specificepithet:verreauxi genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "scolopax minor" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 3
+	Query: "M-8974" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "type:specimen genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Mergus albellus" ; Times: 2
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 hasmedia:1 hastissue:1" ; Times: 2
+	Query: "coeligena coeligena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 924 download events in this period)
+Total number of records downloaded: 1802
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-23 ; Times: 5
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Myophonus" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "platyspiza" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "camarhynchus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "certhidea" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 1
+
+
+End of report.
