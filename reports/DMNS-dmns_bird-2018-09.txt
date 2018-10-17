@@ -1,0 +1,352 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 585
+Number of records retrieved in searches: 5421
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 8
+	Country: Ireland ; Times: 3
+	Country: Unknown ; Times: 20
+	Country: Costa Rica ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 2
+	Country: China ; Times: 9
+	Country: Germany ; Times: 5
+	Country: Denmark ; Times: 5
+	Country: Turkey ; Times: 2
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 197
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 292
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 12
+	Date: 2018-09-23 ; Times: 29
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 39
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-20 ; Times: 79
+	Date: 2018-09-21 ; Times: 31
+	Date: 2018-09-22 ; Times: 7
+	Date: 2018-09-05 ; Times: 18
+	Date: 2018-09-08 ; Times: 5
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 14
+	Date: 2018-09-10 ; Times: 17
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 11
+	Date: 2018-09-15 ; Times: 5
+	Date: 2018-09-14 ; Times: 6
+	Date: 2018-09-17 ; Times: 75
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 28
+	Date: 2018-09-18 ; Times: 15
+	Date: 2018-09-24 ; Times: 97
+	Date: 2018-09-25 ; Times: 31
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-06 ; Times: 16
+	Date: 2018-09-07 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:6979 institutioncode:DMNS" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "5178" ; Times: 1
+	Query: "specificepithet:americanus genus:Numenius class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(kansas state OR KSU)" ; Times: 4
+	Query: "Hypothymis azurea" ; Times: 2
+	Query: "albino stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "Egretta thula" ; Times: 11
+	Query: "vntype:specimen stateprovince:&#34;yucatan&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "furcifer" ; Times: 2
+	Query: "lagopus lagopus" ; Times: 16
+	Query: "genus:Passerina stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves recordedby:Dean" ; Times: 1
+	Query: "vntype:specimen genus:Icterus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "quail wing" ; Times: 2
+	Query: "corvus corax" ; Times: 31
+	Query: "Oxyura jamaicensis jamaicensis" ; Times: 1
+	Query: "catalognumber:12116 institutioncode:DMNS" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Leiothrix lutea vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "egretta thula" ; Times: 7
+	Query: "Lamprolaima" ; Times: 1
+	Query: "coopers hawk" ; Times: 1
+	Query: "recordedby:Christie" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 5
+	Query: "Campephilus principalis" ; Times: 13
+	Query: "nucifraga" ; Times: 1
+	Query: "liver aves hasmedia:1" ; Times: 2
+	Query: "class:aves country:&#34;india&#34;" ; Times: 1
+	Query: "county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpina genus:Cranioleuca" ; Times: 2
+	Query: "specificepithet:tahitica genus:hirundo class:aves" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 2
+	Query: "cinclus" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 22
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "specificepithet:cyanopus genus:Agelasticus" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Rodent" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "skeleton vntype:specimen (male female)" ; Times: 1
+	Query: "orchids" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 8
+	Query: "snakes" ; Times: 3
+	Query: "34893-1" ; Times: 1
+	Query: "psittacula" ; Times: 1
+	Query: "skeleton vntype:specimen (male female )" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "elephant bird" ; Times: 1
+	Query: "Reading" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:cyanomelas genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 38
+	Query: "John Nichols" ; Times: 1
+	Query: "songbird" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "Heliangelus dmns" ; Times: 2
+	Query: "catalognumber:13650 institutioncode:DMNS" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1980" ; Times: 1
+	Query: "michigan state" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "ciconia ciconia hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:dendrocopos" ; Times: 1
+	Query: "turdus merula" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 3
+	Query: "16088" ; Times: 1
+	Query: "witch" ; Times: 10
+	Query: "43204" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:thilius genus:agelaius" ; Times: 1
+	Query: "genus:Mimus sex:female" ; Times: 4
+	Query: "CAMPEPHILUS PRINCIPALIS" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "class:aves country:&#34;kenya&#34;" ; Times: 2
+	Query: "tigre" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:poospiza" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "catalognumber:6676 institutioncode:DMNS" ; Times: 2
+	Query: "catalognumber:1688 institutioncode:DMNS" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "vntype:specimen genus:cyanocitta stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "catalognumber:12796 institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes hastissue:1" ; Times: 1
+	Query: "Halcyon coromanda" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Accipter" ; Times: 1
+	Query: "catalognumber:2331 institutioncode:DMNS" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "ara macao" ; Times: 27
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 12
+	Query: "specificepithet:stelleri genus:cyanocitta hastissue:1" ; Times: 1
+	Query: "macgregoria pulchra" ; Times: 1
+	Query: "country:&#34;Australia&#34; recordedby:Saunders" ; Times: 2
+	Query: "quiscalus mexicanus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:12327 institutioncode:DMNS" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "catalognumber:11019 institutioncode:DMNS" ; Times: 1
+	Query: "Spinus tristis" ; Times: 35
+	Query: "sula leucogaster" ; Times: 1
+	Query: "class:aves recordedby:bosley" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 2
+	Query: "MELANERPES ERYTHROCEPHALUS" ; Times: 1
+	Query: "LAGOPUS LAGOPUS" ; Times: 4
+	Query: "grizzly bear" ; Times: 3
+	Query: "paridae liver" ; Times: 2
+	Query: "24094" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 1
+	Query: "avian" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "amazilia tzacatl" ; Times: 3
+	Query: "33513" ; Times: 1
+	Query: "selasphorus rufus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "prairie dog" ; Times: 2
+	Query: "brown bear" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 3
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Telespiza" ; Times: 1
+	Query: "stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "calliope year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "harms" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "&#34;Osgood&#34;" ; Times: 1
+	Query: "recordedby:Holland" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 1
+	Query: "selasphorus calliope year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "recordedby:worthen" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy County&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 3
+	Query: "harris hawk" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "catalognumber:1597 institutioncode:DMNS" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 14
+	Query: "loxia leucoptera" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius" ; Times: 1
+	Query: "specificepithet:passerina genus:Spizella hastissue:1" ; Times: 1
+	Query: "ciconia ciconia" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "Calidris pusilla" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "bubulcus ibis" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "leptodon" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 67
+	Query: "43935" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "catalognumber:8495 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Aimophila" ; Times: 1
+	Query: "catalognumber:16427 institutioncode:DMNS" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "catalognumber:13683 institutioncode:DMNS" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "recordedby:Saunders" ; Times: 2
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "Accipiter gentilis gentilis hastissue:1" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "copsychus saularis" ; Times: 2
+	Query: "vntype:specimen specificepithet:Albiventer genus:Tachycineta" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "cinclus cinclus" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "(accipiter gentilis) hastissue:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "catalognumber:12800 institutioncode:DMNS" ; Times: 1
+	Query: "catalognumber:9820 institutioncode:DMNS" ; Times: 2
+	Query: "specificepithet:cyanocephala genus:Amazilia" ; Times: 3
+	Query: "catalognumber:13183 institutioncode:DMNS" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysops genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "Pipra pipra vntype:specimen country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "Lagopus lagopus" ; Times: 5
+	Query: "sterna dougallii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 846 download events in this period)
+Total number of records downloaded: 5076
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "haslength:1" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+	Query: "selasphorus calliope year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
