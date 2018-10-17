@@ -1,0 +1,369 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 392
+Number of records retrieved in searches: 2513
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: France ; Times: 4
+	Country: Venezuela ; Times: 4
+	Country: Australia ; Times: 1
+	Country: China ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 18
+	Country: Spain ; Times: 3
+	Country: Netherlands ; Times: 6
+	Country: Denmark ; Times: 7
+	Country: United States ; Times: 243
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: Mexico ; Times: 31
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 29
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 16
+	Date: 2018-08-31 ; Times: 9
+	Date: 2018-08-18 ; Times: 23
+	Date: 2018-08-19 ; Times: 8
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-23 ; Times: 16
+	Date: 2018-08-14 ; Times: 12
+	Date: 2018-08-15 ; Times: 23
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 18
+	Date: 2018-08-10 ; Times: 6
+	Date: 2018-08-11 ; Times: 20
+	Date: 2018-08-02 ; Times: 14
+	Date: 2018-08-08 ; Times: 15
+	Date: 2018-08-03 ; Times: 10
+	Date: 2018-08-17 ; Times: 6
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 2
+	Date: 2018-08-24 ; Times: 9
+	Date: 2018-08-09 ; Times: 33
+	Date: 2018-08-22 ; Times: 22
+	Date: 2018-08-21 ; Times: 11
+	Date: 2018-08-20 ; Times: 20
+	Date: 2018-08-05 ; Times: 5
+	Date: 2018-08-04 ; Times: 6
+	Date: 2018-08-07 ; Times: 11
+	Date: 2018-08-06 ; Times: 13
+	Date: 2018-08-01 ; Times: 38
+	Date: 2018-08-29 ; Times: 7
+	Date: 2018-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "hemiprocne" ; Times: 1
+	Query: "class:aves (manus) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "genus:Branta recordedby:Townsend" ; Times: 4
+	Query: "35547" ; Times: 1
+	Query: "genus:Parabuteo" ; Times: 1
+	Query: "Wing cord class:Aves" ; Times: 1
+	Query: "class:aves (manus) year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "10699" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 2
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "ammospiza macgillivraii" ; Times: 1
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "Bishop Museum Bird Specimens" ; Times: 1
+	Query: "aix sponsa" ; Times: 3
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "Aphelocoma insularis 1907" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 15
+	Query: "21408" ; Times: 1
+	Query: "recordedby:Whitney year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "9832" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 2
+	Query: "vntype:specimen genus:Cyclarhis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ara macao" ; Times: 5
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898 startdayofyear &gt;= 174 enddayofyear &gt;= 174" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "picachos" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "campbelli" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "9665" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:DMNS" ; Times: 2
+	Query: "northern flicker" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "zoothera dauma" ; Times: 1
+	Query: "Aratinga" ; Times: 5
+	Query: "jaguar" ; Times: 3
+	Query: "confusus" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "passerina amoena x passerina cyanea" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "11472" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "montezumae" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "rats" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "Corvus corax" ; Times: 2
+	Query: "26688" ; Times: 1
+	Query: "249468" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 2
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "ROM" ; Times: 1
+	Query: "excubitor" ; Times: 1
+	Query: "Raw" ; Times: 4
+	Query: "mummy" ; Times: 2
+	Query: "11363" ; Times: 2
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "genus:Falco recordedby:Townsend" ; Times: 7
+	Query: "specificepithet:purpuratus genus:Trachyphonus" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "genus:Psaltriparus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "johannae" ; Times: 3
+	Query: "13900" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "county:&#34;Culberson&#34;" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 2
+	Query: "specificepithet:torqueola genus:sporophila hasmass:1" ; Times: 1
+	Query: "ammospiza altera" ; Times: 1
+	Query: "33147 class:aves" ; Times: 1
+	Query: "witch" ; Times: 7
+	Query: "turdus migratorius liver" ; Times: 2
+	Query: "locality:sand creek" ; Times: 1
+	Query: "bird study skins" ; Times: 3
+	Query: "genus:Haemorhous recordedby:Townsend" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "recordedby:Osburn year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "tumor" ; Times: 1
+	Query: "specificepithet:scutulata genus:Cairina" ; Times: 1
+	Query: "wing cord class:Aves haslifestage:1 hassex:1" ; Times: 1
+	Query: "house finch" ; Times: 2
+	Query: "cancer" ; Times: 1
+	Query: "specificepithet:immutabilis class:aves year &gt;= 1949 year &lt;= 1949" ; Times: 1
+	Query: "KUM" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 1
+	Query: "picoides borealis" ; Times: 1
+	Query: "vntype:specimen genus:HYlophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes locality:Santa Cruz Island basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves (manus) year &gt;= 1990" ; Times: 1
+	Query: "porphyrio poliocephalus" ; Times: 1
+	Query: "rollandia rolland rolland" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "specificepithet:ossifragus genus:corvus class:aves" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "junco liver" ; Times: 1
+	Query: "Spinus tristis" ; Times: 62
+	Query: "B-3403" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "pipilo gaigei" ; Times: 2
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "hawaii bird specimens" ; Times: 1
+	Query: "specificepithet:velata genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Aix sponsa hasmass:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:schiller year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "genus:Psaltriparus year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "Upupa epops" ; Times: 3
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "T-1484" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Red Fox skeleton" ; Times: 1
+	Query: "barred owl" ; Times: 2
+	Query: "10395" ; Times: 1
+	Query: "1907-02-17" ; Times: 1
+	Query: "vntype:specimen genus:Cyclarhis class:Aves country:&#34;Brazil&#34; institutioncode:DMNS" ; Times: 2
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "amnh database" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 4
+	Query: "genus:Pica class:Aves hastissue:1" ; Times: 1
+	Query: "gallirallus australis" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Poicephalus te" ; Times: 8
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Picumnus" ; Times: 1
+	Query: "rufulus" ; Times: 1
+	Query: "specificepithet:minimus genus:Psaltriparus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:white year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "Ciconia stormi" ; Times: 2
+	Query: "heteralocha" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "sibling" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:white year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "&#34;sunset beach&#34;" ; Times: 1
+	Query: "recordedby:balmer" ; Times: 2
+	Query: "abnormal growth" ; Times: 4
+	Query: "phalacrocorax auritus" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "24949" ; Times: 1
+	Query: "Lampornis AND Costa Rica" ; Times: 1
+	Query: "class:Aves basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 2
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "Trogon collaris puella" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 2
+	Query: "T 1484" ; Times: 1
+	Query: "ara macao" ; Times: 17
+	Query: "specificepithet:striatus genus:Accipiter stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "buteo lineatus" ; Times: 1
+	Query: "egg point barrow alaska" ; Times: 1
+	Query: "Ciconia stormi weight" ; Times: 2
+	Query: "SD 2961" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "bucephala islandica" ; Times: 3
+	Query: "specificepithet:ruber genus:Sphyrapicus country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus year &gt;= 1904" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 4
+	Query: "tortuga" ; Times: 1
+	Query: "45758 class:Aves" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1416 download events in this period)
+Total number of records downloaded: 8271
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 32
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 10
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 11
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 2
+	Query: "topaza pella" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "class:Aves basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "abnormal growth" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "hawaii bird specimens" ; Times: 1
+	Query: "vntype:specimen genus:sterna county:&#34;orange&#34;" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "recordedby:Baron" ; Times: 1
+
+
+End of report.
