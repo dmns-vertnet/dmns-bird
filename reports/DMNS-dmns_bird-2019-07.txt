@@ -1,0 +1,530 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 800
+Number of records retrieved in searches: 9018
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 68
+	Country: Canada ; Times: 8
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 23
+	Country: Nepal ; Times: 4
+	Country: France ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 11
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: United States ; Times: 557
+	Country: Sweden ; Times: 2
+	Country: Guadeloupe ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 29
+	Country: United Kingdom ; Times: 58
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 33
+	Date: 2019-07-18 ; Times: 21
+	Date: 2019-07-19 ; Times: 12
+	Date: 2019-07-08 ; Times: 83
+	Date: 2019-07-12 ; Times: 112
+	Date: 2019-07-13 ; Times: 7
+	Date: 2019-07-10 ; Times: 50
+	Date: 2019-07-11 ; Times: 42
+	Date: 2019-07-16 ; Times: 78
+	Date: 2019-07-17 ; Times: 35
+	Date: 2019-07-14 ; Times: 4
+	Date: 2019-07-15 ; Times: 46
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-03 ; Times: 13
+	Date: 2019-07-23 ; Times: 14
+	Date: 2019-07-22 ; Times: 12
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-20 ; Times: 4
+	Date: 2019-07-27 ; Times: 4
+	Date: 2019-07-26 ; Times: 11
+	Date: 2019-07-25 ; Times: 14
+	Date: 2019-07-24 ; Times: 16
+	Date: 2019-07-01 ; Times: 9
+	Date: 2019-07-30 ; Times: 14
+	Date: 2019-07-29 ; Times: 14
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-05 ; Times: 50
+	Date: 2019-07-04 ; Times: 21
+	Date: 2019-07-07 ; Times: 20
+	Date: 2019-07-06 ; Times: 15
+	Date: 2019-07-31 ; Times: 33
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Campylopterus specificepithet:curvipennis" ; Times: 1
+	Query: "Aratinga aurea mappable:1" ; Times: 1
+	Query: "Anas fulvigula mappable:1" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Pheucticus hastissue:1" ; Times: 2
+	Query: "Melacoryphus" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "Passerina cyanea hasmass:1" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:adamsii genus:gavia class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "7044" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Wyoming&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "recordedby:Holland" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus mappable:1" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "genus:Ptilinopus  specificepithet:melanospilus" ; Times: 2
+	Query: "nighthawk" ; Times: 1
+	Query: "specificepithet:penelope class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "anser anser" ; Times: 2
+	Query: "29240" ; Times: 3
+	Query: "17380" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aratinga strenua" ; Times: 2
+	Query: "Oceanites gracilis galapagos year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "Calidris canutus rufa mappable:1" ; Times: 1
+	Query: "Brotogeris chiriri mappable:1" ; Times: 1
+	Query: "genus:Nilaus specificepithet:afer" ; Times: 1
+	Query: "halcyon island" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "genus:Limnodromus " ; Times: 1
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Spinus specificepithet:pinus" ; Times: 1
+	Query: "Skulls" ; Times: 1
+	Query: "gbifdatasetid:2f54cb88-4167-499a-81fb-0a2d02465212 procellariiformes" ; Times: 4
+	Query: "Brotogeris tirica mappable:1" ; Times: 1
+	Query: "locality:shelter island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 1
+	Query: "quiscalus mexicanus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Amazilia rutila" ; Times: 1
+	Query: "Prioniturus luconensis" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (maxima) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "specificepithet:hyperboreus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Wyoming&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Amazona autumnalis mappable:1" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 4
+	Query: "locality:Coronados" ; Times: 1
+	Query: "specificepithet:mollissima class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34;) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "&#34;Alca torda&#34; vntype:specimen continent:North America" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:obsoletus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Saltator coerulescens mappable:1" ; Times: 1
+	Query: "Colorado vntype:specimen specificepithet:quiscula genus:Quiscalus" ; Times: 1
+	Query: "Calornis" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 1
+	Query: "DMNS 11658" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Seiurus specificepithet:aurocapilla" ; Times: 1
+	Query: "Amazona imperialis" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "vntype:specimen genus:batis" ; Times: 1
+	Query: "genus:Ramphastos hasmass:1" ; Times: 7
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "Basileuterus melanogenys vntype:specimen" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 2
+	Query: "genus:Ammodramus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Habia rubica mappable:1" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Coryphospingus cucullatus mappable:1" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Aves locality:Mountain Lake county:&#34;Giles&#34;" ; Times: 1
+	Query: "leucosticte AND eggs" ; Times: 2
+	Query: "family:Alcidae class:aves country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Meleagris" ; Times: 1
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "genus:Sturnus" ; Times: 1
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "asturina nitida" ; Times: 5
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "spheniscus" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 15
+	Query: "Cape Verde" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "locality:Shelter Island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34; (mashomack OR shelter island)" ; Times: 1
+	Query: "locality:Ordway" ; Times: 2
+	Query: "vntype:specimen specificepithet:molitor genus:batis" ; Times: 5
+	Query: "quiscalus major" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin AND (NOT immature NOT chick) institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Trichoglossus" ; Times: 1
+	Query: "specificepithet:monocerata" ; Times: 1
+	Query: "genus:Bubo" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 2
+	Query: "Grison" ; Times: 1
+	Query: "adsimilis" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Agelasticus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Amazona albifrons mappable:1" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "Cyanerpes cyaneus mappable:1" ; Times: 1
+	Query: "Aratinga acuticaudata mappable:1" ; Times: 1
+	Query: "DMNS 11682" ; Times: 1
+	Query: "genus:Haliaeetus" ; Times: 1
+	Query: "Empidonax traillii extimus mappable:1" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "vermivora celata hastissue:1" ; Times: 2
+	Query: "megascops asio" ; Times: 4
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "county:&#34;Culberson&#34;" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:pluvialis class:aves stateprovince:&#34;alaska&#34; month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "Basileuterus melanogenys" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "genus:Podilymbus" ; Times: 1
+	Query: "Cacicus solitarius mappable:1" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 80
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 3
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Louisiana&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "recordedby:Horace" ; Times: 1
+	Query: "glaucidium capense" ; Times: 3
+	Query: "Centrocercus minimus" ; Times: 121
+	Query: "family:trochilidae haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:eburnea class:aves stateprovince:&#34;alaska&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Parotia sefilata" ; Times: 1
+	Query: "Tapera naevia mappable:1" ; Times: 4
+	Query: "genus:synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myrmecocichla arnotti" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Empidonax stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "sula leucogaster" ; Times: 4
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Brotogeris versicolurus mappable:1" ; Times: 1
+	Query: "Thraupis sayaca mappable:1" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "Thraupis episcopus mappable:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 5
+	Query: "genus:Pandion" ; Times: 1
+	Query: "Branta bernicla" ; Times: 4
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Saltator maximus mappable:1" ; Times: 1
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+	Query: "A.31512" ; Times: 1
+	Query: "specificepithet:clamator country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Amazona aestiva mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 2
+	Query: "Euphonia chlorotica mappable:1" ; Times: 1
+	Query: "genus:Cathartes specificepithet:aura" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "rodents" ; Times: 2
+	Query: "Coccyzus americanus americanus mappable:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Centrocercus urophasianus minimus" ; Times: 52
+	Query: "DMNS 12215" ; Times: 2
+	Query: "sanfordi" ; Times: 1
+	Query: "Maximiliani vntype:specimen country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:Strigidae country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Euphonia violacea mappable:1" ; Times: 1
+	Query: "pachyptila desolata" ; Times: 1
+	Query: "Eupetomena macroura mappable:1" ; Times: 5
+	Query: "Oceanodroma socorroensis" ; Times: 3
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "diomedea irrorata" ; Times: 6
+	Query: "Sicalis columbiana mappable:1" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:pacificus genus:Troglodytes stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Agelaius" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 3
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "54-213" ; Times: 2
+	Query: "Paroaria capitata mappable:1" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "country:&#34;Russia&#34; Polysticta stelleri" ; Times: 1
+	Query: "genus:Accipiter country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Iowa&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:numenius class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "Barnardius barnardi mappable:1" ; Times: 1
+	Query: "Sitta AND Island" ; Times: 1
+	Query: "alca torda" ; Times: 1
+	Query: "Amazona amazonica mappable:1" ; Times: 1
+	Query: "lion" ; Times: 2
+	Query: "Agelaius cyanopus mappable:1" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 8
+	Query: "class:aves locality:mountain lake county:&#34;giles&#34;" ; Times: 2
+	Query: "Aphelocoma coerulescens coerulescens mappable:1" ; Times: 1
+	Query: "gbifdatasetid:2f54cb88-4167-499a-81fb-0a2d02465212" ; Times: 2
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "genus:Parus specificepithet:xanthogenys" ; Times: 1
+	Query: "Agelasticus cyanopus mappable:1" ; Times: 2
+	Query: "Aratinga leucophthalmus mappable:1" ; Times: 1
+	Query: "Aphelocoma coerulescens year &gt;= 1950 hastissue:1" ; Times: 1
+	Query: "DMNS 8717" ; Times: 1
+	Query: "upupa epops" ; Times: 24
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "Thraupis palmarum mappable:1" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Lamprolaima specificepithet:rhami" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Aulacorhynchus" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "specificepithet:lagopus genus:buteo class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 2
+	Query: "genus:Jacana country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 4
+	Query: "mycteria" ; Times: 1
+	Query: "vntype:specimen specificepithet:holosericeus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cistothorus marianae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "2880 tyrannus" ; Times: 1
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bonasa" ; Times: 1
+	Query: "specificepithet:scolopaceus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Poecile" ; Times: 1
+	Query: "DMNS 13992" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "(mashomack OR shelter island)" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 1
+	Query: "genus:podiceps class:aves stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "Sporophila leucoptera mappable:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT &#34;Branta canadensis canadensis&#34;) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;South Carolina&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Diomedea sanfordi" ; Times: 4
+	Query: "caracara" ; Times: 1
+	Query: "bird wings" ; Times: 1
+	Query: "Gabrielson" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "specificepithet:nuchalis genus:Sphyrapicus year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "limosa fedoa" ; Times: 2
+	Query: "Ramphocelus carbo mappable:1" ; Times: 1
+	Query: "genus:Spiza specificepithet:americana" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 1
+	Query: "tanager" ; Times: 2
+	Query: "HAZEL" ; Times: 2
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "genus:Uria specificepithet:lomvia" ; Times: 1
+	Query: "Ptiloris paradiseus" ; Times: 3
+	Query: "specificepithet:obsoletus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:livia genus:columba continent:north america" ; Times: 3
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "bird carbon" ; Times: 1
+	Query: "Oceanites gracilis year galapagos" ; Times: 1
+	Query: "vntype:specimen specificepithet:molitor genus:batis country:&#34;botswana&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Telespiza specificepithet:cantans" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 2
+	Query: "phalacrocorax bougainvillii" ; Times: 2
+	Query: "genus:Gallus" ; Times: 1
+	Query: "Ara auricollis mappable:1" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "tyrannus savana paraguay" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 1
+	Query: "genus:Pardalotus specificepithet:punctatus" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 2
+	Query: "specificepithet:tolmiei genus:Geothlypis year &gt;= 1980 month &gt;= 7 month &lt;= 9" ; Times: 1
+	Query: "Ramphastos toco mappable:1" ; Times: 1
+	Query: "genus:Corvus specificepithet:corax" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "passerina cyanea month" ; Times: 1
+	Query: "vntype:specimen genus:Accipiter country:&#34;Brazil&#34;" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "DMNS 12121" ; Times: 1
+	Query: "Russia" ; Times: 1
+	Query: "deer mice" ; Times: 2
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "genus:Strix specificepithet:varia" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Anthus rubescens" ; Times: 1
+	Query: "Dendroica chrysoparia mappable:1" ; Times: 2
+	Query: "specificepithet:lagopus genus:buteo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "genus:melanitta class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Mniotilta" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "Muscivora tyrannus mappable:1" ; Times: 1
+	Query: "Turdus migratorius AND Island" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius hastissue:1" ; Times: 1
+	Query: "genus:Synthliboramphus family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:certhia hastissue:1" ; Times: 1
+	Query: "Vultur gryphus (Peru)" ; Times: 2
+	Query: "DMNS 12195" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen genus:Coragyps" ; Times: 2
+	Query: "Upupa epops" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Empidonax year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "red crossbill" ; Times: 2
+	Query: "Andrew hope" ; Times: 2
+	Query: "specificepithet:australis genus:Ardeotis" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 2
+	Query: "Turdus rufiventris mappable:1" ; Times: 1
+	Query: "Amazona arausiaca" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 4
+	Query: "Amazona" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "class:Aves locality:Mountain Lake county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "genus:Porzana specificepithet:fluminea" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:melanocephalus melanocephalus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "vntype:specimen genus:Amblyramphus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Passerina amoena sex:male month &gt;= 7 month &lt;= 9 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Pluvialis specificepithet:dominica" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 2
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "porzana carolina" ; Times: 3
+	Query: "class:Aves county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "oreothlypis celata hastissue:1" ; Times: 4
+	Query: "crax rubra" ; Times: 5
+	Query: "specificepithet:fuscescens genus:Catharus year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "oceanites gracilis" ; Times: 4
+	Query: "specificepithet:penelope class:aves stateprovince:&#34;alaska&#34; year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "genus:Eupherusa specificepithet:eximia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 985 download events in this period)
+Total number of records downloaded: 3461
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 31
+	Country: Guatemala ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-03 ; Times: 3
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-31 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Empidonax stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "class:aves locality:mountain lake county:&#34;giles&#34;" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "family:icteridae haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "genus:Ramphastos hasmass:1" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "locality:Ordway" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Icteridae" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+
+
+End of report.
