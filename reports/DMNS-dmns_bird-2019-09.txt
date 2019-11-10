@@ -1,0 +1,465 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 624
+Number of records retrieved in searches: 13754
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 31
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 32
+	Country: Panama ; Times: 1
+	Country: France ; Times: 4
+	Country: Rwanda ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 6
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: United States ; Times: 460
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 3
+	Country: Guadeloupe ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: United Arab Emirates ; Times: 2
+	Country: Cuba ; Times: 7
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 13
+	Date: 2019-09-17 ; Times: 11
+	Date: 2019-09-10 ; Times: 33
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-12 ; Times: 21
+	Date: 2019-09-13 ; Times: 12
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 40
+	Date: 2019-09-30 ; Times: 19
+	Date: 2019-09-09 ; Times: 8
+	Date: 2019-09-08 ; Times: 5
+	Date: 2019-09-03 ; Times: 43
+	Date: 2019-09-02 ; Times: 8
+	Date: 2019-09-01 ; Times: 4
+	Date: 2019-09-07 ; Times: 5
+	Date: 2019-09-06 ; Times: 172
+	Date: 2019-09-05 ; Times: 20
+	Date: 2019-09-04 ; Times: 54
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 11
+	Date: 2019-09-23 ; Times: 16
+	Date: 2019-09-22 ; Times: 18
+	Date: 2019-09-25 ; Times: 30
+	Date: 2019-09-24 ; Times: 18
+	Date: 2019-09-27 ; Times: 15
+	Date: 2019-09-26 ; Times: 18
+	Date: 2019-09-29 ; Times: 5
+	Date: 2019-09-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "45583" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "DMNS 13951" ; Times: 2
+	Query: "anthus rubescens" ; Times: 1
+	Query: "pelecanoides urinatrix" ; Times: 1
+	Query: "Calidris canutus" ; Times: 10
+	Query: "27957" ; Times: 1
+	Query: "Chordeiles hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "genus:dryocopus" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "Lagopus lagopus AND (buteo)" ; Times: 2
+	Query: "poecile rufescens year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus year &gt;= 2010 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:1070 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trogon bairdii" ; Times: 5
+	Query: "chihuahua" ; Times: 3
+	Query: "(Lagopus) AND (&#34;Buteo&#34;)" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 45
+	Query: "accipiter cooperii" ; Times: 1
+	Query: "arañas" ; Times: 13
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "class:Aves catalognumber:40684 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "hemignathus" ; Times: 1
+	Query: "genus:gallicolumba hastissue:1" ; Times: 1
+	Query: "bull snake" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "Conuropsis" ; Times: 1
+	Query: "corax vntype:specimen institutioncode:DMNS lifestage:juvenile" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "class:aves institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "vireo griseus" ; Times: 1
+	Query: "Setophaga auduboni" ; Times: 3
+	Query: "genus:aegolius AND (funereus) hastissue:1" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Plegadis" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "adler aves" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 3
+	Query: "Mixtepec" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 39
+	Query: "specificepithet:atricapillus genus:poecile sex:female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:elegans genus:Trogon country:&#34;Costa Rica&#34; sex:Female" ; Times: 1
+	Query: "mourning dove wing" ; Times: 1
+	Query: "Aphelocoma New Mexico" ; Times: 2
+	Query: "genus:Buteogallus NOT (skin)" ; Times: 1
+	Query: "geospatial" ; Times: 1
+	Query: "hastissue:1 rollandia" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "specificepithet:podiceps country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Halcyon specificepithet:chloris country:&#34;Philippines&#34;" ; Times: 1
+	Query: "recordedby:Fuller" ; Times: 1
+	Query: "class:Aves catalognumber:41403 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Henicorhina" ; Times: 1
+	Query: "class:Aves catalognumber:27088 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 3
+	Query: "genus:Halcyon country:&#34;Philippines&#34;" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "(lagopus) NOT (&#34;buteo&#34;)" ; Times: 1
+	Query: "gbifdatasetid:2f54cb88-4167-499a-81fb-0a2d02465212" ; Times: 2
+	Query: "genus:Parus" ; Times: 2
+	Query: "Apteryx" ; Times: 3
+	Query: "Leiothrix lutea hastissue:1" ; Times: 2
+	Query: "45335" ; Times: 1
+	Query: "genus:aegolius AND NOT (funereus) hastissue:1" ; Times: 1
+	Query: "Nyctiphrynus mcleodii" ; Times: 1
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "vntype:specimen genus:Poecile institutioncode:DMNS basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "Vassar" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:limosa haemastica" ; Times: 2
+	Query: "specificepithet:elegans genus:Trogon" ; Times: 6
+	Query: "elegans Trogon Female" ; Times: 1
+	Query: "Nycticorax caledonicus caledonicus" ; Times: 1
+	Query: "campylorhynchus xerophilus" ; Times: 2
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "family:Phasianidae order:Galliformes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella stateprovince:&#34;oregon&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Lions" ; Times: 2
+	Query: "42180" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34; institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon country:&#34;Costa Rica&#34; sex:female" ; Times: 1
+	Query: "Grizzly bear museum specimens" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "Synallaxis erythrothorax" ; Times: 1
+	Query: "Grizzly bear museum" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "Casuarius casuarius" ; Times: 2
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "duck wings" ; Times: 2
+	Query: "pelecanoides urinatrix kerguelen" ; Times: 1
+	Query: "Pyrilia pyrilia" ; Times: 3
+	Query: "campylorhynchus brunneicapillus" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Heteralocha female" ; Times: 1
+	Query: "class:aves country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus year &gt;= 1905 year &lt;= 1940" ; Times: 1
+	Query: "Phoenicurus moussieri" ; Times: 6
+	Query: "specificepithet:virginianus genus:bubo class:aves hastissue:1" ; Times: 3
+	Query: "32960" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricapilla genus:Poecile stateprovince:&#34;Colorado&#34; institutioncode:DMNS basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "DMNH 470" ; Times: 1
+	Query: "Somateria fischeri" ; Times: 2
+	Query: "passerina ciris" ; Times: 2
+	Query: "Chrysolampis elatus" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "mourning dove" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "guam owstoni year &lt; 1980" ; Times: 1
+	Query: "genus:Halcyon specificepithet: chloris country:&#34;Philippines&#34;" ; Times: 1
+	Query: "heart vntype:specimen hasmedia:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile sex:Female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "SUI" ; Times: 1
+	Query: "genus:Zosterops continent:North America" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga stateprovince:&#34;oregon&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "(lagopus) AND (not buteo)" ; Times: 1
+	Query: "genus:jynx continent:North America" ; Times: 3
+	Query: "corax vntype:specimen institutioncode:DMNS" ; Times: 2
+	Query: "genus:Pelecanus sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "DMNS 12409" ; Times: 2
+	Query: "(Lagopus) NOT (&#34;Buteo&#34;)" ; Times: 1
+	Query: "Mimocichla plumbeus" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "bison Bison" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "western tanager" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;colorado&#34; sex:female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "limosa fedoa" ; Times: 1
+	Query: "DMNH trogoniformes" ; Times: 1
+	Query: "myiarchus cinerascens" ; Times: 1
+	Query: "parula" ; Times: 1
+	Query: "(Lagopus) AND (Buteo)" ; Times: 1
+	Query: "rallus owstoni year &lt; 1980" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 26
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:melanochloros genus:Colaptes country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "41235" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene class:aves hastissue:1" ; Times: 3
+	Query: "specificepithet:americanus genus:Coccyzus year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "rhea" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Colorado&#34; sex:male institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(lagopus) NOT (&#34;buteo&#34; OR &#34;vulpes&#34;)" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricapilla genus:Poecile institutioncode:DMNS basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "trogon bairdii" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;wyoming&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 25
+	Query: "&#34;Columba leucocephala&#34;" ; Times: 1
+	Query: "anthus rubescens year &gt;= 1985 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;New York&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "genus:Parus class:Aves" ; Times: 1
+	Query: "genus:Buteogallus AND (skin) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "191385" ; Times: 1
+	Query: "family:phoenicopteridae hastissue:1" ; Times: 1
+	Query: "(Lagopus lagopus) AND (Lagopus mutus)" ; Times: 1
+	Query: "Campylopterus hyperythrus" ; Times: 1
+	Query: "bulleri" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "Setophaga coronata month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Setophaga auduboni year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "pelecanoides kerguelen" ; Times: 2
+	Query: "Cygnus buccinator" ; Times: 3
+	Query: "vntype:specimen specificepithet:elegans genus:Eudromia family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "pipilo gaigei" ; Times: 1
+	Query: "exsul" ; Times: 2
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "xenospiza baileyi" ; Times: 3
+	Query: "vireo bellii" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Colorado&#34; sex:Female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:male institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen genus:Ardeotis" ; Times: 2
+	Query: "Anthracothorax violicauda" ; Times: 3
+	Query: "lagopus" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Aphelocoma utah county" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 1
+	Query: "catalognumber:16536 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile stateprovince:&#34;Colorado&#34; institutioncode:DMNS basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 61
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Coeligena" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "Threskiornithinae" ; Times: 1
+	Query: "genus:dendrocopos hastissue:1" ; Times: 1
+	Query: "Catharus ustulatus year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "(lagopus) NOT (&#34;vulpes&#34;)" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Cercomacra melanaria mappable:1" ; Times: 5
+	Query: "Columba livia" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "Sphyrapicus ruber AND Island" ; Times: 1
+	Query: "genus:Pelecanus sex:Female preparations:Skeleton (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "specificepithet:tolmiei genus:geothlypis year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "zosterops everetti" ; Times: 2
+	Query: "genus:limosa haemastica institutioncode" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;montana&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "walter koelz" ; Times: 8
+	Query: "sayornis quiescens" ; Times: 1
+	Query: "vntype:specimen genus:sturnella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 24
+	Query: "Bird skins" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "genus:Lagopus family:Phasianidae order:Galliformes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 3
+	Query: "juquila" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "genus:MYIOPSITTA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "(lagopus) AND (&#34;buteo&#34;)" ; Times: 1
+	Query: "vntype:specimen genus:Poecile institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 3
+	Query: "icterus mesomelas veracruz" ; Times: 1
+	Query: "genus:Buteogallus AND (skin)" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "strigops habroptilus" ; Times: 3
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "koelz" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:27087 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "hastissue:1 aechmophorus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile sex:female catalognumber:49003 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "laterallus albigularis" ; Times: 1
+	Query: "Corvus brachyrhynchos colorado" ; Times: 2
+	Query: "genus:Buteogallus NOT (skin egg)" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "(Lagopus) NOT (Buteo)" ; Times: 1
+	Query: "Setophaga auduboni month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Casuariidae" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile sex:Male institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 4
+	Query: "Anthus rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "specificepithet:gambeli genus:poecile sex:Female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1073 download events in this period)
+Total number of records downloaded: 1666
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 22
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 24
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 17
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 23
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "boreas" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Anthracothorax violicauda" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "juquila" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Mixtepec" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Campylopterus hyperythrus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon country:&#34;Costa Rica&#34; sex:female" ; Times: 1
+	Query: "arañas" ; Times: 2
+	Query: "Chrysolampis elatus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
