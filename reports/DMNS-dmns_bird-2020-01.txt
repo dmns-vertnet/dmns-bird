@@ -1,0 +1,393 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 325
+Number of records retrieved in searches: 3782
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 9
+	Country: Panama ; Times: 1
+	Country: Cuba ; Times: 6
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 19
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 234
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 19
+	Date: 2020-01-03 ; Times: 20
+	Date: 2020-01-02 ; Times: 12
+	Date: 2020-01-01 ; Times: 4
+	Date: 2020-01-07 ; Times: 5
+	Date: 2020-01-06 ; Times: 8
+	Date: 2020-01-04 ; Times: 3
+	Date: 2020-01-21 ; Times: 11
+	Date: 2020-01-20 ; Times: 23
+	Date: 2020-01-09 ; Times: 12
+	Date: 2020-01-08 ; Times: 11
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 13
+	Date: 2020-01-27 ; Times: 15
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-29 ; Times: 19
+	Date: 2020-01-28 ; Times: 15
+	Date: 2020-01-19 ; Times: 4
+	Date: 2020-01-23 ; Times: 23
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-15 ; Times: 20
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 10
+	Date: 2020-01-11 ; Times: 13
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 25
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "holochlorus" ; Times: 1
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "taxonomy" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; catalognumber:50381" ; Times: 2
+	Query: "snake vntype:specimen hassex:1 haslength:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "(kansas state OR KSU)" ; Times: 1
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "41874" ; Times: 1
+	Query: "genus:loxia institutioncode:DMNS" ; Times: 2
+	Query: "mice" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 2
+	Query: "genus:geothlypis stateprovince:&#34;colorado&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 2
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "&#34;wing chord&#34; AND &#34;adult&#34; specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hasmass:1" ; Times: 1
+	Query: "226479" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "nestor notabilis" ; Times: 6
+	Query: "33744" ; Times: 1
+	Query: "recordedby:hunt" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:murie basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "Haemorhous mexicanus" ; Times: 2
+	Query: "pterodroma macroptera" ; Times: 3
+	Query: "aves empidonax occidentalis skel OR skeleton" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "242124" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides hasmass:1 haslength:1" ; Times: 1
+	Query: "apteryx" ; Times: 1
+	Query: "specificepithet:americana genus:grus" ; Times: 1
+	Query: "115966" ; Times: 1
+	Query: "stateprovince:&#34;colorado&#34; catalognumber:40003" ; Times: 2
+	Query: "449628" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 6
+	Query: "Thryomanes AND Cruz Island AND 1908" ; Times: 1
+	Query: "wings" ; Times: 1
+	Query: "genus:Caprimulgus family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "vntype:specimen county:&#34;refugio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen (Aix sponsa) hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "lagunas steere" ; Times: 2
+	Query: "Grus americana" ; Times: 2
+	Query: "vntype:specimen order:procellariiformes institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "&#34;grizzly bear&#34;" ; Times: 2
+	Query: "county:&#34;Sherman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 4
+	Query: "&#34;WING CHORD&#34; specificepithet:ACUTA genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "487365" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "297173" ; Times: 1
+	Query: "Mallard Duck" ; Times: 2
+	Query: "CRM system" ; Times: 2
+	Query: "Henicorhina" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "sagebrush sparrow" ; Times: 5
+	Query: "gbifdatasetid:2f54cb88-4167-499a-81fb-0a2d02465212" ; Times: 2
+	Query: "oreothlypis" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "DMNS Merops ornatus" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "haematotis" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1915 AND HOwell" ; Times: 1
+	Query: "224522" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:dowell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "piaya cayana country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 7
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "genus:Catharus stateprovince:&#34;colorado&#34; year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:platyrhynchos genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "piaya cayana" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ACUTA genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "(movement)" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "equine" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 4
+	Query: "genus:catharus stateprovince:&#34;wyoming&#34; catalognumber:35184" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 3
+	Query: "black bear" ; Times: 1
+	Query: "Melanitta perspicillata" ; Times: 2
+	Query: "Mycteria cinerea" ; Times: 1
+	Query: "242445" ; Times: 1
+	Query: "Mexico Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "iowa Stuart" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1915" ; Times: 2
+	Query: "stateprovince:&#34;colorado&#34; catalognumber:52167" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:jewett basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "41501" ; Times: 1
+	Query: "8743" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "3868" ; Times: 1
+	Query: "Neochen" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "Thryomanes AND Cruz Island" ; Times: 1
+	Query: "513625" ; Times: 1
+	Query: "graciae aves hastissue:1" ; Times: 1
+	Query: "accipter" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "specificepithet:decumanus genus:Psarocolius year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 2
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;colorado&#34; year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "Thomas Stuart" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "golden eagle" ; Times: 2
+	Query: "genus:Catharus catalognumber:40591" ; Times: 1
+	Query: "241097" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "stateprovince:&#34;colorado&#34; catalognumber:42414" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "9623" ; Times: 1
+	Query: "224905" ; Times: 1
+	Query: "specificepithet:arnotti genus:Myrmecocichla family:Muscicapidae class:Aves continent:Africa" ; Times: 1
+	Query: "patagioenas fasciata hastissue:1" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "Phylloscopus vntype:specimen" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "piaya cayana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "(Aix sponsa) hassex:1 hasmass:1" ; Times: 1
+	Query: "tongue family:trochilidae" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 2
+	Query: "richmondena" ; Times: 2
+	Query: "specificepithet:atricapillus genus:poecile basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "&#34;wing chord&#34; specificepithet:sponsa genus:aix continent:North America hasmass:1" ; Times: 1
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "&#34;wing chord&#34; AND &#34;adult&#34; specificepithet:sponsa genus:aix haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Lunda" ; Times: 1
+	Query: "country:&#34;guatemala&#34;" ; Times: 1
+	Query: "strix varia" ; Times: 2
+	Query: "oceanites oceanicus" ; Times: 2
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "genus:Psarocolius year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Ciconia stormi" ; Times: 1
+	Query: "&#34;setophaga petechia&#34;" ; Times: 1
+	Query: "canadensis nebraska" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sagebrush" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "Cercomacra melanaria mappable:1" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Noble" ; Times: 1
+	Query: "colinus" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "claravis" ; Times: 1
+	Query: "234811" ; Times: 1
+	Query: "Thryomanes AND Clemente Island" ; Times: 2
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus" ; Times: 2
+	Query: "513698" ; Times: 1
+	Query: "petechia petechia skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "goat" ; Times: 1
+	Query: "canadensis nebraska aves" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "Gabrielson" ; Times: 1
+	Query: "family:tityridae class:aves" ; Times: 1
+	Query: "specificepithet:platycercus genus:selasphorus" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "Phalaenoptilus" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "passerculus sandwichensis beldingi" ; Times: 5
+	Query: "39597" ; Times: 2
+	Query: "52543" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;colorado&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:richardson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "Thryomanes AND San Clemente Island" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "Conuropsis carolinensis iowa" ; Times: 1
+	Query: "241862" ; Times: 1
+	Query: "genus:ptychoramphus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "caribou" ; Times: 1
+	Query: "240918" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1584 download events in this period)
+Total number of records downloaded: 23739
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 7
+	Country: United States ; Times: 39
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 12
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 3
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "&#34;wing chord&#34; AND &#34;adult&#34; specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "specificepithet:arnotti genus:Myrmecocichla family:Muscicapidae class:Aves continent:Africa" ; Times: 1
+	Query: "genus:Caprimulgus family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
