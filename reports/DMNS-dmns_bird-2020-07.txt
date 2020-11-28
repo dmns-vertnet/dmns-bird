@@ -1,0 +1,344 @@
+Report for Institution Code DMNS, Resource dmns_bird
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 404
+Number of records retrieved in searches: 10605
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 10
+	Country: Ireland ; Times: 8
+	Country: Unknown ; Times: 35
+	Country: France ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 11
+	Country: Bangladesh ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 9
+	Country: Hong Kong ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 7
+	Country: United States ; Times: 122
+	Country: Sweden ; Times: 4
+	Country: South Korea ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 115
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 27
+	Country: Malaysia ; Times: 5
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 12
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 6
+	Date: 2020-07-21 ; Times: 34
+	Date: 2020-07-20 ; Times: 10
+	Date: 2020-07-27 ; Times: 11
+	Date: 2020-07-26 ; Times: 3
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 19
+	Date: 2020-07-01 ; Times: 11
+	Date: 2020-07-03 ; Times: 17
+	Date: 2020-07-02 ; Times: 18
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 11
+	Date: 2020-07-07 ; Times: 11
+	Date: 2020-07-06 ; Times: 15
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 11
+	Date: 2020-07-29 ; Times: 17
+	Date: 2020-07-18 ; Times: 9
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 4
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 17
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-16 ; Times: 10
+	Date: 2020-07-31 ; Times: 96
+	Date: 2020-07-14 ; Times: 15
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-15 ; Times: 10
+	Date: 2020-07-28 ; Times: 24
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "Streptopelia decaocto" ; Times: 70
+	Query: "Maipures" ; Times: 2
+	Query: "Costa Rica Boruca" ; Times: 2
+	Query: "40497" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 5
+	Query: "DMNS 13951" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus savana" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "megaceryle torquata" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "West Indies Dominica I." ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "catalognumber:26236 institutioncode:DMNS" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "Setophaga petechia" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "Amazilia candida" ; Times: 3
+	Query: "genus:machetornis" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 2
+	Query: "Androdon" ; Times: 1
+	Query: "catalognumber:26235 institutioncode:DMNS" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "county:&#34;newton&#34;" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "buteogallus" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "buteo harlani colorado" ; Times: 1
+	Query: "nasutus" ; Times: 1
+	Query: "scientificname:Spinus tristis" ; Times: 2
+	Query: "genus:Bubo" ; Times: 2
+	Query: "catalognumber:2623* institutioncode:DMNS" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "fratercula cirrhata" ; Times: 1
+	Query: "Greenland" ; Times: 1
+	Query: "joey kellner" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grizzly" ; Times: 5
+	Query: "vntype:specimen specificepithet:coerulescens genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "Buteo harlani" ; Times: 1
+	Query: "Huia" ; Times: 2
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "stateprovince:&#34;Colorado&#34; institutioncode:DMNS" ; Times: 5
+	Query: "DMNS 13657" ; Times: 4
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "genus:bubo stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "(abernathy)" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "catalognumber:26237 institutioncode:DMNS" ; Times: 3
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 6
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "bat continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "psittacara holochlorus" ; Times: 1
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "catalognumber:26234 institutioncode:DMNS" ; Times: 1
+	Query: "catalognumber:21478 institutioncode:DMNS" ; Times: 2
+	Query: "5867 aves" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "numenius americanus" ; Times: 1
+	Query: "calocitta formosa" ; Times: 1
+	Query: "spinus tristis" ; Times: 2
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 2
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "aves spleen" ; Times: 5
+	Query: "Stager" ; Times: 1
+	Query: "stager" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 2
+	Query: "Pavo muticus" ; Times: 4
+	Query: "35921" ; Times: 1
+	Query: "campephilus principalis" ; Times: 18
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 3
+	Query: "ACD 1976" ; Times: 1
+	Query: "11614" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "genus:bubo" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 6
+	Query: "dryocopus javensis" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "vntype:specimen specificepithet:fasciolata genus:Crax class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "royal-ontario-museum" ; Times: 1
+	Query: "locality:rocky ford stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "19966" ; Times: 1
+	Query: "2201" ; Times: 1
+	Query: "institutioncode:dmns Psittacula" ; Times: 2
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "Ardea alba alba" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "genus:quelea" ; Times: 1
+	Query: "institutioncode:dmns Psittacidae" ; Times: 4
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:occidentalis" ; Times: 1
+	Query: "pipra mentalis" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 6
+	Query: "fratercula arctica" ; Times: 1
+	Query: "recordedby:cuyler" ; Times: 1
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34; institutioncode:DMNS" ; Times: 1
+	Query: "buteo jamaicensis colorado" ; Times: 1
+	Query: "Spatula discors Texas" ; Times: 1
+	Query: "phainoptila" ; Times: 1
+	Query: "ceratopipra mentalis" ; Times: 1
+	Query: "diehl" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "catalognumber:27033 institutioncode:DMNS" ; Times: 2
+	Query: "Leucophaeus fuliginosus" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 3
+	Query: "catalognumber:26232 institutioncode:DMNS" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "class:Aves country:&#34;Greenland&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Bird:43493?seid=3068414&#34;" ; Times: 3
+	Query: "alticola" ; Times: 1
+	Query: "piranga flava" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 7
+	Query: "28567" ; Times: 1
+	Query: "peralta costa rica" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Aphelocoma woodhouseii" ; Times: 1
+	Query: "turtle data" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "Jamaica St. Andrew" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "specificepithet:pulcherrima country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "specificepithet:cooperi genus:Accipiter year &gt;= 2013 year &lt;= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "101467" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "goat" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Buteo harlani Colorado" ; Times: 1
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "46505" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "catalognumber:26233 institutioncode:DMNS" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 3
+	Query: "45055" ; Times: 1
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "genus:Vultur" ; Times: 1
+	Query: "genus:sitta country:&#34;philippines&#34;" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "adamsi" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "Sitta carolinensis institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "specificepithet:plateni country:&#34;philippines&#34;" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Campeche" ; Times: 1
+	Query: "spleen" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "locality:Teton County" ; Times: 2
+	Query: "genus:Tympanuchus recordedby:Labedz" ; Times: 3
+	Query: "limnodromus griseus" ; Times: 2
+	Query: "11163" ; Times: 1
+	Query: "Tarsiger rufilatus India" ; Times: 2
+	Query: "catalognumber:15613 institutioncode:DMNS" ; Times: 2
+	Query: "copsychus" ; Times: 1
+	Query: "41449" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 940 download events in this period)
+Total number of records downloaded: 1325
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 8
+	Country: Sweden ; Times: 3
+	Country: Peru ; Times: 4
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "psittacara holochlorus" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 1
+	Query: "Sitta carolinensis institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+
+
+End of report.
